@@ -1,0 +1,2141 @@
+a     |a aún álamo                               |
+ab    |ábside absoluto absorber                  |
+abs   |abstracto absceso abscisa                 |
+ac    |acta acto actual                          |
+ad    |load admite titubead                      |
+ads   |adscribir                                 |
+af    |afta afgano                               |
+ag    |agnóstico                                 |
+ah    |ah                                        |
+ahi   |ahitar ahijado                            |
+ahu   |ahuyentar                                 |
+ai    |aire airón airado veáisoslas              |
+ain   |aindamáis aindiado                        |
+ais   |aislar habíais seáis                      |
+al    |al alma álgebra                           |
+am    |ámbar ámbito amplio                       |
+an    |ángel ánfora andan                        |
+ap    |áptero ápside aptitud                     |
+ar    |árbol árboles arco                        |
+as    |áspid áspero asno                         |
+at    |atmósfera                                 |
+au    |áureo aullar aumento                      |
+aun   |aun aunque                                |
+aus   |austro austral austríaco                  |
+ay    |ay aymará                                 |
+az    |azteca                                    |
+ba    |bájese básico cabaña                      |
+bab   |nabab baobab                              |
+bac   |bacteria                                  |
+bad   |alabad derribad abad                      |
+bah   |bah                                       |
+bai   |bailar garambaina subscribáisela          |
+bais  |habitabais hablabais recibáis             |
+bal   |balde cabal bálsamo                       |
+bam   |bambú bamboleo bambalina                  |
+ban   |banda volaban gabán                       |
+bap   |anabaptismo baptisterio                   |
+bar   |barba barco bártulo                       |
+bas   |basta escoba turbás                       |
+bau   |bautizo bauprés bauxita                   |
+bay   |ambay ñandubay                            |
+be    |alabé derribé cabeza                      |
+bed   |sabed                                     |
+bei   |albéitar beige                            |
+beis  |habéis sabéis robeislo                    |
+bel   |rebelde cascabel jabélgala                |
+bem   |bembo                                     |
+ben   |saben deben prebéndala                    |
+ber   |berlinga bermejo tubérculo                |
+bes   |sabes nubes cordobés                      |
+bey   |bey abey                                  |
+beys  |beys                                      |
+bez   |lobezno ensoberbezco embebézcala          |
+bi    |bebida subirá sabían                      |
+bia   |sabia soberbia rubiáceo                   |
+bial  |labial adverbial proverbial               |
+bian  |agobian cambian barbián                   |
+biar  |cambiar agobiar entibiar                  |
+bias  |sabias tibias soberbias                   |
+bic   |aeróbic                                   |
+bid   |subid exhibid apercibid                   |
+bie   |bienes bebiera cambié                     |
+biel  |bieldo                                    |
+bien  |bien habiendo habiéndolo                  |
+bier  |abierta cubierta gobiérnalo               |
+bies  |bies agobies entibies                     |
+biez  |entibiezca entibiézcala                   |
+bif   |rosbif biftec                             |
+big   |bignoniáceo                               |
+bil   |hábil débil cabildo                       |
+bin   |albín querubín terebintáceo               |
+bio   |sabio oprobio recibió                     |
+biom  |biombo                                    |
+bion  |simbionte sabionda turbión                |
+bios  |labios sabios soberbios                   |
+bir   |subir recibir bírlalo                     |
+bis   |ibis abismo embístalo                     |
+bit   |bit turbit bitneriácea                    |
+bits  |bits turbits                              |
+biz   |bizco bizma bizcocho                      |
+bla   |obla habla habláronle                     |
+blad  |doblad hablad temblad                     |
+blais |dobláis habláis tembláis                  |
+blan  |hablan blanco hablándole                  |
+blar  |hablar temblar doblar                     |
+blas  |hablas tablas blasfemo                    |
+ble   |dable noble hablé                         |
+bleis |habléis dobléis tembléis                  |
+blen  |hablen tiemblen blenda                    |
+bles  |hables nobles poblés                      |
+blez  |doblez establezca ennoblézcala            |
+bli   |sublime publica oblígalo                  |
+blia  |biblia                                    |
+blin  |blindado sublingual                       |
+blio  |bibliófilo bibliorato                     |
+blior |ambliornis                                |
+blis  |hablista neblís                           |
+blo   |hablo pueblo tembló                       |
+bloc  |bloc                                      |
+bloi  |tabloide                                  |
+blon  |oblongo blondo tablón                     |
+blor  |temblor                                   |
+blos  |pueblos vocablos establos                 |
+blu   |blusa ablución diablura                   |
+bluf  |bluf                                      |
+blyor |amblyornis                                |
+bo    |boca cabo probó                           |
+boi   |amiboideo romboidal boicot                |
+boj   |boj                                       |
+bol   |árbol bolsa bolso                         |
+bom   |bomba bombacha abómbala                   |
+bon   |bondad albondiguilla carbón               |
+bor   |borde labor sobórnalo                     |
+bos   |cabos ambos embóstalo                     |
+bot   |robot pailebot paquebot                   |
+bots  |robots                                    |
+bou   |bou                                       |
+bra   |obra brama sabrá                          |
+brac  |bráctea                                   |
+brad  |librad cobrad sembrad                     |
+brah  |brahmán                                   |
+brai  |algebraico hebraico                       |
+brais |sembráis encubráis elucucubráis           |
+bral  |umbral cerebral vertebral                 |
+bran  |abran labran sabrán                       |
+brar  |obrar librar sembrar                      |
+bras  |abras obras sabrás                        |
+bre   |pobre sobre cobré                         |
+brehu |sobrehumano                               |
+brei  |habreisos                                 |
+breis |habréis sabréis labreislo                 |
+brel  |lebrel                                    |
+bren  |abren libren cubren                       |
+brep  |subrepticio                               |
+bres  |libres pobres sembrés                     |
+brex  |sobrexceder sobrexponer                   |
+brez  |empobrezca ensombrezca ensombrézcalo      |
+bri   |abrirá cubrirá cabrío                     |
+bria  |ebria sobria embriaga                     |
+brid  |abrid                                     |
+brie  |abriese cubriese sobriedad                |
+brien |cubriendo hambriento cubriéndolo          |
+bril  |abril febril fabril                       |
+brin  |brin brinco brinda                        |
+brio  |equilibrio cinabrio descubrió             |
+brion |embrión                                   |
+brios |ebrios sobrios equilibrios                |
+brir  |abrir cubrir descubrírselo                |
+bris  |abriste cubriste cubrístelo               |
+briz  |lombriz brizna desbríznala                |
+bro   |brote libro nombró                        |
+bron  |bronce bronca relumbrón                   |
+bros  |libros hombros miembros                   |
+bru   |bruñido brujería brújula                  |
+brup  |abrupto                                   |
+brus  |brusco                                    |
+bu    |buho bufido bambú                         |
+bue   |bueno bueyes abuelo                       |
+buen  |buen                                      |
+bues  |ambuesta                                  |
+buey  |buey                                      |
+buf   |buffet                                    |
+bui   |buitre atribuido contribuía               |
+buir  |atribuir retribuir distribuir             |
+bul   |bulto bulbo búlgaro                       |
+bum   |álbum                                     |
+bun   |abunda carbunclo moribundo                |
+bur   |burla burdo búrlalo                       |
+bus   |buscar tribus búscase                     |
+but   |debut                                     |
+butz  |kibutz                                    |
+buy   |ababuy                                    |
+buz   |arcabuz rebuzna balbuzca                  |
+by    |rugby                                     |
+ca    |peca boca cáliz                           |
+cac   |cactus cáctea                             |
+cad   |tocad buscad publicad                     |
+caf   |caftán                                    |
+cai   |caiga caigan abastezcáisoslo              |
+cais  |buscaisoslo perezcáis conozcáis           |
+caj   |carcaj                                    |
+cal   |cal caldo cálcalo                         |
+cam   |campo cambio precámbrico                  |
+can   |can cansa cántaro                         |
+cap   |cápsula captura                           |
+car   |carga carne cárdeno                       |
+card  |placard                                   |
+cas   |vacas pocas cáscara                       |
+cat   |catgut requiéscat                         |
+cau   |causa cautela cautiva                     |
+caus  |encausto holocausto cáustico              |
+cay   |pacay amancay                             |
+caz   |eficaz perspicaz cacicazgo                |
+ce    |nace dice célula                          |
+ced   |haced coced merced conoced                |
+cei   |ceibo aceite cruceiro                     |
+ceis  |hacéis conocéis obedecéis                 |
+cel   |cincel cárcel céltico                     |
+cem   |decembrista                               |
+cen   |hacen dicen céntimo                       |
+cep   |acepto excepto escéptico                  |
+ceps  |bíceps tríceps prínceps                   |
+cer   |cerca hacer acérquese                     |
+ces   |veces hoces francés                       |
+cet   |plácet                                    |
+ceu   |farmacéutico                              |
+cez   |macicez endulcezca endulcézcala           |
+cha   |hacha hecha echáronle                     |
+chad  |endechad escuchad desmochad               |
+chai  |chaima chaira hincháisoslo                |
+chais |hinchaisla hincháis                       |
+chal  |chal lechal                               |
+cham  |champán chambra chambelán                 |
+chan  |echan hinchan agachándose                 |
+char  |echar charco reprochármelo                |
+chas  |anchas muchas hinchás                     |
+chat  |chat                                      |
+chau  |chau chaucha chauvinismo                  |
+che   |eché cliché deseché                       |
+che   |eche leche deseché                        |
+chef  |chef                                      |
+cheis |echéis escuchéis                          |
+chen  |ochenta marchen escuchen                  |
+cher  |nocherniego                               |
+ches  |clichés quichés noches                    |
+chet  |crochet                                   |
+chets |crochets                                  |
+chez  |anochézcase estrechez                     |
+chi   |chico henchirá chíflale                   |
+chib  |chibcha                                   |
+chid  |henchid                                   |
+chie  |hinchiera hinchiéraisla                   |
+chien |hinchiendo hinchiéndola                   |
+chies |cuchichiés                                |
+chil  |chilca aguachil                           |
+chim  |cachimba chimpancé machímbrala            |
+chin  |achichinque chinche borrachín             |
+chio  |achiote hinchió                           |
+chir  |chirle chirlo henchir                     |
+chis  |chiste chispa achíspala                   |
+cho   |choza hecho desechó                       |
+chom  |chomba                                    |
+chon  |rechoncha colchoncillo pichón             |
+chor  |anchor bochorno malhechor                 |
+chos  |machos pechos muchos                      |
+choz  |chozno                                    |
+chu   |chupar anchura chúcaro                    |
+chua  |quichua                                   |
+chual |achual                                    |
+chuas |quechuas                                  |
+chue  |mochuelo chueco habichuela                |
+chum  |chumbar techumbre chúmbale                |
+chun  |chunga chuncho                            |
+chus  |chusco chusma manachus                    |
+ci    |vecino homicida hacía                     |
+cia   |hacia ciencia ciánico                     |
+ciad  |negociad denunciad                        |
+cial  |inicial espacial especial                 |
+cian  |anuncian denuncian iniciándose            |
+ciar  |saciar acuciar anunciárselo               |
+cias  |sacias recias delicias                    |
+cid   |decid uncid zurcídselo                    |
+cie   |ciega cielo ensucié                       |
+cieis |saciéis ensuciéis denunciéis              |
+ciem  |diciembre ciempiés                        |
+cien  |ciento ciencia haciéndole                 |
+cier  |cierto ciervo aciértale                   |
+cies  |especies superficies vaciés               |
+cil   |dócil difícil fácilmente                  |
+cim   |címbalo címbrale cimbra                   |
+cin   |cinta cinco balancín                      |
+cinc  |cinc                                      |
+cio   |recio precio pareció                      |
+cion  |acción loción creación                    |
+cios  |necios vicios juicios                     |
+cir   |decir deducir decírselo                   |
+cis   |hiciste cisterna cístico                  |
+cit   |déficit                                   |
+ciu   |ciudad                                    |
+cix   |cóccix                                    |
+cla   |claro clavo clásico                       |
+clamp |eclampsia                                 |
+clan  |clan clandestina mezclándole              |
+clar  |anclar reciclar mezclársele               |
+clas  |anclas teclas mezclas                     |
+clau  |claudica clausura cláusula                |
+claus |claustro                                  |
+cle   |núcleo clemente clérigo                   |
+clec  |ecléctico eclecticismo                    |
+clei  |nucleico                                  |
+clen  |anclen mezclen enclenque                  |
+clep  |cleptómano clepsidra                      |
+cler  |rosicler                                  |
+cles  |bucles mezcles debacles                   |
+cli   |cíclica declina enclítico                 |
+clien |cliente                                   |
+clio  |cliometría                                |
+clip  |eclíptica eclípsalo eclipse               |
+clis  |ciclismo cataclismo                       |
+clo   |ciclo cloaca folclórico                   |
+clon  |ciclón                                    |
+clor  |clorhídrico                               |
+clos  |siclos ciclos choclos                     |
+clu   |incluye concluye exclúyalas               |
+club  |club                                      |
+clue  |clueca                                    |
+clui  |ocluido excluido concluía                 |
+cluir |excluir incluir concluir                  |
+co    |cosa loco tocó                            |
+coc   |coctel cocción cóctel                     |
+cog   |cognación cognición incógnita             |
+coi   |coito ficoidea discoidal                  |
+coin  |coincida                                  |
+cok   |cok                                       |
+col   |colgar caracol acólchala                  |
+com   |compra combatir cómputo                   |
+con   |con contra cóncavo                        |
+cons  |consta conspira constituye                |
+cop   |malacopterigio helicóptero                |
+cor   |corta corno córneo                        |
+cord  |récord                                    |
+cos   |sacos pocos cósmico                       |
+cot   |boicot tricot                             |
+cout  |scout                                     |
+coy   |bocoy coicoy                              |
+coz   |coz precoz                                |
+cra   |crasa execra scráneo                      |
+cral  |sepulcral                                 |
+cran  |execran involucran alacrán                |
+crar  |lacrar lucrar execrar                     |
+cras  |sacras lacras chacras                     |
+cre   |crea crecer incrédulo                     |
+cren  |lucren crencha involucren                 |
+cres  |acres crespo encréspala                   |
+crez  |acrézcala crézcanlas crezca               |
+cri   |criba escrito crítico                     |
+cria  |criaba                                    |
+crian |crianza criándola                         |
+criar |criarlo                                   |
+crias |criaste                                   |
+cric  |cric cricquet                             |
+crie  |crié                                      |
+cries |cries criésmelo                           |
+crin  |alecrín crin                              |
+crio  |criollo criogenia criógeno                |
+crip  |cripta descripción críptico               |
+cris  |crisma cristal críspala                   |
+cro   |cromo sacro micrófono                     |
+crol  |crol                                      |
+cron  |micrón crónlech ómicron                   |
+cros  |cromos sacros acróstico                   |
+cru   |crudo crujiente escrúpulo                 |
+crue  |crueles                                   |
+cruel |cruel                                     |
+cruen |cruenta                                   |
+crup  |crup                                      |
+crus  |incrusta crustáceo                        |
+cruz  |cruz                                      |
+cu    |cuyo cubre cúpula                         |
+cua   |pascua cuatro acuático                    |
+cual  |cual rorcual cualquier                    |
+cuan  |cuan cuando cuántico                      |
+cuar  |cuarto evacuar acuartelar                 |
+cuas  |ascuas pascuas oblicuas                   |
+cuaz  |locuaz secuaz                             |
+cue   |cueva cuero cuécelo                       |
+cuel  |cuélgalo cuelgan                          |
+cuen  |cuenta cincuenta encuéntralo              |
+cuer  |cuerpo cuervo acuérdate                   |
+cues  |cuesta ecuestre acuéstate                 |
+cuez  |colicuezca colicuézcalo                   |
+cui   |cuita cuidado acuífero                    |
+cuir  |inmiscuirse circuir                       |
+cuis  |cuis                                      |
+cul   |culpa oculta auscúltalo                   |
+cum   |cumple cumbre encúmbrase                  |
+cun   |secunda circunda rubicundo                |
+cuns  |circunscripto circunstancia circunspecto  |
+cuo   |cuota acuoso inicuo                       |
+cuos  |conspicuos oblicuos inicuos               |
+cur   |curso concurso cúrcuma                    |
+cus   |fucus lacustre acústica                   |
+cuy   |cacuy                                     |
+cuz   |cuzco alcuzcuz blancuzca                  |
+da    |da oda cadáver                            |
+dac   |redactar dactilar didáctico               |
+dad   |dad maldad ciudad                         |
+dai   |judaico acomidaisos despidaisos           |
+dais  |anidaislo despidaislo acordáis            |
+dal   |caudal feudal dálmata                     |
+dam   |quídam macadam damnificar                 |
+dan   |dan andan dándole                         |
+dap   |adapta                                    |
+dar   |dar rodar dársena                         |
+das   |todas sendas olvidás                      |
+day   |urunday caranday                          |
+daz   |audaz mordaz mendaz                       |
+de    |de deja década                            |
+ded   |extended responded descended              |
+dei   |deidad fideicomiso                        |
+deis  |andéis podéis deis                        |
+del   |del delta cordel                          |
+dem   |ídem modem indemnización                  |
+den   |den orden idéntico                        |
+dep   |adepto                                    |
+der   |poder perder dérmico                      |
+ders  |polders                                   |
+des   |despojo ciudades holandés                 |
+deu   |deudor adeudar deuterio                   |
+deum  |tedéum                                    |
+dex   |index dextrina ambidextro                 |
+dez   |aridez avidez compadézcalo                |
+dhi   |yodhídrico                                |***dudosa
+di    |dice dedica dhi                           |
+dia   |envidia guardia diáfano                   |
+diac  |radiactivo                                |
+diag  |diagnóstico                               |
+dial  |cordial mundial primordial                |
+dian  |asedian mediante guardián                 |
+diar  |adiar mediar remediar                     |
+dias  |medias discordias diáspora                |
+dic   |edicto dictar apodíctico                  |
+did   |ardid                                     |
+die   |diera nadie aturdiéronse                  |
+diem  |urdiembre                                 |
+dien  |diente sedienta fundiéndose               |
+dier  |aladierna brigadier                       |
+dies  |diestro compendies incendies              |
+diez  |diez pardiez diézmala                     |
+dif   |difteria                                  |
+dig   |digno dignidad indignación                |
+dil   |redil candil endílgala                    |
+dim   |urdimbre                                  |
+din   |dintel mandinga paladín                   |
+dio   |dio odio encendió                         |
+dioi  |dioico                                    |
+dion  |hediondo colodión                         |
+diop  |dioptría dióptrico                        |
+dios  |dios estudios adiós                       |
+dip   |dipnoos diptongo díptico                  |
+dir   |medir pedir añadírselo                    |
+dis   |dispone discurre dístico                  |
+diu   |diurético                                 |
+dium  |médium                                    |
+diur  |diurno                                    |
+dix   |radix                                     |
+diz   |perdiz aprendiz                           |
+do    |todo puedo fundó                          |
+doc   |doctor doctrina sudoccidental             |
+dog   |dogma buldog                              |
+dol   |dolmen                                    |
+dom   |candombe                                  |
+don   |don donde pendón                          |
+dop   |adoptar adóptelo lepidóptero              |
+dor   |ardor orador adórnala                     |
+dos   |dos todos intradós                        |
+dou   |estadounidense                            |
+doy   |dóytela doy                               |
+dra   |sidra piedra saldrá                       |
+drac  |dracma                                    |
+drad  |engendrad                                 |
+drai  |pudraisos pudráisosla                     |
+drais |pudráis pudraisla                         |
+dral  |adral catedral almendral                  |
+dran  |cuadrante engendran vendrán               |
+drar  |ladrar taladrar engendrar                 |
+dras  |cuadras piedras tendrás                   |
+drau  |hidráulica                                |
+dre   |odre madre vendré                         |
+drei  |abstendreisos convendreisos compondreisos |
+dreis |tendreislo pondreislo tendréis            |
+dren  |arredren engendren amedrentar             |
+dres  |odres madres despedrés                    |
+drez  |ajedrez                                   |
+dri   |podrida ladrillo tendría                  |
+dria  |calandria vidriado adriático              |
+drian |vidrian                                   |
+driar |vidriar                                   |
+drias |mitocondrias  calandrias                  |
+drid  |pudrid                                    |
+drie  |vidriera pudriéraisla                     |
+drien |pudriendo pudriéndola                     |
+dries |vidries                                   |
+dril  |dril cuadril mandril                      |
+drin  |sanedrín malandrín cuadringentésimo       |
+drio  |vidrio bodrio pudrióse                    |
+drios |vidrios                                   |
+drir  |podrir pudrir                             |
+dris  |pedrisco pudrislo pudrís                  |
+dro   |cedro medro hidrógeno                     |
+droc  |androctónido                              |
+droi  |androide cilindroideo                     |
+dron  |ladrón escuadrón almendrón                |
+dros  |cedros cuadros taladros                   |
+dru   |drupa druso cuadrúpedo                    |
+drui  |druida                                    |
+drus  |pedrusco                                  |
+du    |dura madura introdúcelo                   |
+dua   |ardua aduana graduado                     |
+dual  |dual gradual individual                   |
+duan  |individuan graduándose                    |
+duar  |aduar graduar individuar                  |
+duas  |arduas individuas                         |
+duc   |ducto dúctil conducto                     |
+due   |duele duelo duéleme                       |
+duen  |duende individuen                         |
+duer  |duerma duérmase                           |
+dues  |gradueslo individues gradués              |
+dui   |asiduidad beduino                         |
+dul   |dulce abedul adúltero                     |
+dum   |muchedumbre certidumbre servidumbre       |
+dun   |redunda sandunga pedúnculo                |
+duo   |arduo duodeno graduó                      |
+duos  |residuos individuos                       |
+dur   |durmió embadurnar embadúrnala             |
+dus   |modus verdusca industria                  |
+dux   |dux                                       |
+duz   |reduzca arcaduz prodúzcanse               |
+e     |cae ese échalo                            |
+ec    |eccema ectodermo                          |
+ed    |caed leed traed                           |
+eh    |eh                                        |
+ei    |éider eirá                                |
+eins  |einstenio                                 |***dudosa
+eis   |leéis creéis leeislo                      |
+el    |él el                                     |
+em    |emplea empuja émbolo                      |
+en    |en entre énfasis                          |
+ep    |épsilon                                   |
+er    |caer raer coércela                        |
+ers   |bóers                                     |
+es    |es está esto                              |
+et    |etcétera etmoides étnico                  |
+eu    |eunuco europeo eucalipto                  |
+ex    |extremo extraño éxtasis                   |
+ez    |soez jaez acaezca                         |
+fa    |fa faja fárrago                           |
+fac   |facción facsímil satisfacción             |
+fai   |jofaina azufaifo faisánido                |
+fal   |falta falso asfáltico                     |
+fan   |mofan orfandad celofán                    |
+far   |fardo farsa fármaco                       |
+fas   |cofas gafas sofás                         |
+fau   |fauna fauce                               |
+faus  |fausto                                    |
+faz   |faz antifaz satisfázmela                  |
+fe    |fe feo profético                          |
+fec   |afecta efecto defecto                     |
+fei   |afeite alféizar                           |
+fel   |felpa feldespato afélpala                 |
+fen   |ofender defender                          |
+fer   |fervor enferma fértil                     |
+fes   |festivo manifestó cafés                   |
+fet   |buffet bufet                              |
+feu   |feudal                                    |
+fez   |fez                                       |
+fi    |fija fila física                          |
+fia   |atrofia confiado rufianes                 |
+fiais |confiáis                                  |
+fiam  |fiambre                                   |
+fian  |afianzar confianza rufián                 |
+fiar  |confiar fotografiar mecanografiar         |
+fias  |fiasco fiaste confiaste                   |
+fic   |ficción ficticio                          |
+fie   |fiera fieles difiéralo                    |
+fieis |fiéis                                     |
+fiel  |fiel fieltro                              |
+fien  |defiende atrofien defiéndete              |
+fier  |infierno                                  |
+fies  |fiesta manifiesto defiéndete              |
+fil   |marfil filtro fílmalo                     |
+film  |film                                      |
+films |films                                     |
+fin   |fin finge delfín                          |
+fio   |garfio desafiolo fílmalo                  |
+fion  |anfión                                    |
+fior  |fiordo                                    |
+fios  |garfios                                   |
+fir   |firme afirme confirme                     |
+fis   |fisco sofisma sofístico                   |
+fiu   |ofiuro                                    |
+fla   |flagelo flaqueza flámula                  |
+flac  |flaccidez fláccido                        |
+flan  |flan inflan chaflán                       |
+flar  |inflar chiflar arrunflar                  |
+flas  |chiflas desinflas insuflas                |
+flash |flash                                     |
+flau  |flauta                                    |
+fle   |flecha reflejo flébil                     |
+flec  |reflectora                                |
+flen  |chiflen inflen insuflen                   |
+fles  |infles chifles insufles                   |
+fli   |afligir infligir chiflido                 |
+flic  |flictena conflicto aflicción              |
+flir  |flirtear                                  |
+flo   |flota flores pasiflórea                   |
+flon  |teflón gordinflón                         |
+flor  |flor                                      |
+flu   |fluye afluye flúor                        |
+flua  |meliflua superflua                        |
+fluas |superfluas                                |
+fluc  |fluctuar                                  |
+fluen |efluente afluente influencia              |
+flui  |fluidez influido fluía                    |
+fluir |fluir afluir influir                      |
+fluo  |fluoruro fluorita superfluo               |
+fluor |fluorhídrico                              |
+fluos |superfluos                                |
+fo    |fosa foco triunfó                         |
+foi   |tifoidea linfoide escafoides              |
+fol   |folclore                                  |
+fom   |alfombra                                  |
+fon   |fondo fontana sifón                       |
+for   |formar forzar fórmico                     |
+fos   |güelfos fosfato fósforo                   |
+foz   |alfoz                                     |
+fra   |cifra frase frágil                        |
+frac  |frac fractura fracción                    |
+frag  |fragmento diafragma diafrágmalo           |
+frai  |fraile                                    |
+fram  |wolfram frambuesa frambesia               |
+fran  |franja francés azafrán                    |
+franc |francmasón                                |
+frar  |cifrar azufrar                            |
+fras  |frasco cifras infrascrito                 |
+frau  |fraude                                    |
+fray  |fray                                      |
+fraz  |disfraz                                   |
+fre   |freno ofrece ofrécelo                     |
+frej  |almofrej                                  |
+fren  |frente ofrenda palafrén                   |
+fres  |fresco fresno sufres                      |
+freu  |freudismo                                 |
+frez  |ofrezca ofrézcale                         |
+fri   |friso frigio frívolo                      |
+fria  |resfriado friable enfriáselo              |
+friai |enfriaisos enfriáisosla                   |
+friais|friais enfriais enfriáismela              |
+frial |frialdad                                  |
+frian |enfriando escalofriante                   |
+friar |enfriar                                   |
+frias |frias enfriaste enfriásmela               |
+fric  |fricción                                  |
+frie  |friega frieron sufriéralo                 |
+frien |friendo sufriendo friéndolo               |
+fries |escalofrieste enfriesla enfriés           |
+frin  |infringir fringílido refringente          |
+frio  |friolenta enfrió resfrió                  |
+frir  |sufrir sufrirla sufrirlo                  |
+fro   |sufro frotar nefrólogo                    |
+fron  |frontal frontón frontera                  |
+fru   |fruto frugal frufrú                       |
+fruc  |fructosa infructuoso fructífero           |
+frui  |fruición                                  |
+fruir |fruir                                     |
+frun  |fruncir                                   |
+frus  |frustrar fruslería                        |
+fu    |furor fusión fúnebre                      |
+fuc   |fucsia fucsina                            |
+fue   |fue fuego fuéronse                        |
+fuen  |fuente                                    |
+fuer  |fuerza esfuérzate                         |
+fui   |fuimos fuíselo                            |
+fuis  |fuiste fuisteis fuístelo                  |
+ful   |fulgor trifulca fúlgido                   |
+fun   |fundo confunda profundo                   |
+fur   |furgón furtivo bifúrcanse                 |
+fus   |fuste ofuscar fustigar                    |
+fut   |fútbol futbol                             |
+g     |gneis gnomo gnóstico                      |
+ga    |paga llaga orgánico                       |
+gad   |cegad rogad juzgad                        |
+gai   |gaita regaifa obtengáisoslo               |
+gais  |digaislo tengaislo traigáis               |
+gal   |legal nogal gálbano                       |
+gam   |gamba gambeta gambito                     |
+gan   |hagan allegan pegándose                   |
+gar   |lagar hogar regárselo                     |
+gas   |alegas nalgas antigás                     |
+gau   |gaucho                                    |
+gay   |guirigay verdegay                         |
+gaz   |sagaz fugaz gazmoña                       |
+ge    |ligero escogerá primogénito               |
+ged   |coged                                     |
+gei   |géiser                                    |
+gel   |gel ángel pagel                           |
+gen   |gente imagen engéndralo                   |
+ger   |recoger germinar gérmenes                 |
+ges   |gesta gesto gestión                       |
+gi    |rugirá mágico legítima                    |
+gia   |regia elogia malpigiáceo                  |
+gial  |colegial                                  |
+gian  |elogian refugian refugiándose             |
+giar  |magiar elogiar presagiar                  |
+gias  |logias hemorragias sicigias               |
+gid   |ungid                                     |
+gie   |ingiere sugiere recogiéronse              |
+gien  |exigiendo encogiendo exigiéndole          |
+gies  |efigies elogies vigiés                    |
+gil   |ágil púgil frágil                         |
+gim   |gimnoto gimnasia gimnosperma              |
+gin   |gingival magín                            |
+gio   |adagio plagio dirigió                     |
+gion  |legión región religión                    |
+gios  |prodigios vestigios sortilegios           |
+gip   |egipcia                                   |
+gir   |ungir fingir afligir                      |
+gis   |legisla registro elegís                   |
+gla   |regla sigla tinglado                      |
+glan  |glandular arreglan glándula               |
+glar  |juglar seglar arreglársela                |
+glas  |reglas siglas arreglas                    |
+glau  |glauco glaucoma                           |
+gle   |gleba iglesia inglesa                     |
+gleis |rezongléis singléis rezongleisle          |
+glen  |rezonglen singlen                         |
+gles  |rezongles singles inglés                  |
+gli   |anaglifo negligente jeroglífico           |
+glio  |ganglio                                   |
+glios |ganglios                                  |
+glip  |gliptoteca gliptodonte glíptica           |
+glo   |globo siglo glóbulo                       |
+glon  |renglón                                   |
+glos  |siglos                                    |
+glu   |gluten glucosa glóbulo                    |
+go    |yugo gozo sosegó                          |
+gol   |golpe golpea agólpanse                    |
+golf  |golf                                      |
+gon   |gondolero avergonzar pregón               |
+gor   |gordo rigor vigor                         |
+gos   |higos amigos angóstalos                   |
+got   |argot fagot                               |
+goz   |gozne gozque desgóznalo                   |
+gra   |grana agrava gráfico                      |
+gral  |negral integral                           |
+gram  |grampa                                    |
+gran  |gran grande integrándose                  |
+grar  |lograr migrar alegrar                     |
+gras  |negras íntegras bisagras                  |
+graz  |agraz graznar                             |
+gre   |tigre alegre logré                        |
+grei  |engreimiento                              |
+greis |consagréis                                |
+gren  |logren alegren ensangrentar               |
+gres  |gres tigres feligrés                      |
+grey  |grey                                      |
+grez  |magrez enmugrezcáis ennegrézcala          |
+gri   |grito grillo agrícola                     |
+gria  |agria agriámosla                          |
+griai |agriaisos engriaisos engriáisosla         |
+griais|agriaisla engriaisla engriáis             |
+grial |grial                                     |
+grian |agrian agriándose                         |
+griar |agriarse                                  |
+grias |agrias engriás                            |
+grie  |griego grieta engriéraste                 |
+grien |mugriento sangriento engriéndose          |
+gries |agries                                    |
+grim  |grímpola                                  |
+grin  |gringo                                    |
+grio  |agrio congrio eengrió                     |
+grion |agrión                                    |
+grios |agrios ugrios                             |
+gris  |gris almagrista petigrís                  |
+griu  |agriura                                   |
+gro   |negro logro alegró                        |
+groin |agroindustrial                            |
+gron  |alegrón                                   |
+gros  |logros negros milagros                    |
+gru   |grupo grulla agrúpense                    |
+grua  |congrua                                   |
+grue  |grueso pantagruélico engruésalo           |
+gruen |congruente                                |
+gruir |gruir                                     |
+gruz  |negruzco                                  |
+gu    |laguna gusano ambigú                      |
+gua   |agua tregua biguá                         |
+guad  |aguad amenguad atestiguad                 |
+guai  |aguaitar guaira guaiquerí                 |
+gual  |igual gualdo bagual                       |
+guam  |guampa                                    |
+guan  |guante aguante zaguán                     |
+guar  |guarda guarnecer guárdate                 |
+guas  |aguas lenguas antiguas                    |
+guau  |guau                                      |
+guay  |guay aguay guaycurú                       |
+güe   |degüéllala                                |
+gue   |pegue sigue entregué                      |
+güe   |pingüe halagüeño antigüedad               |
+güei  |agüeitar                                  |
+gueis |rezonguéis liguéis lleguéis               |
+güel  |güelfo jagüel regüeldo                    |
+güen  |avergüénzate                              |
+guen  |siguen huelguen cabalguen                 |
+güen  |ungüento vergüenza nicaragüense           |
+gues  |llegues ruegues entregués                 |
+gües  |pingües bilingües gregüescos              |
+guey  |maguey                                    |
+güey  |magüey jagüey                             |
+guez  |hidalguez lobreguez enceguézcala          |
+gui   |águila aguijón perseguirá                 |
+güi   |agüío argüía                              |
+gui   |guía guían perseguía                      |
+güi   |güiro argüir pingüino                     |
+guia  |guiado                                    |
+guian |guiando guiándose                         |
+guiar |guiar                                     |
+guid  |erguid seguid conseguid                   |
+guie  |irguieron pluguiere siguiéronlo           |
+guien |alguien siguiente siguiéndole             |
+guies |guies guiésmela                           |
+guim  |guimbalete                                |
+guin  |guinda guindola jorguín                   |
+güin  |pirgüín                                   |
+guio  |guionista guiones distinguió              |
+guion |guión                                     |
+güir  |argüir                                    |
+guir  |seguir proseguir extinguirse              |
+guis  |foguista perseguiste                      |
+güis  |güisqui agüista lingüísticas              |
+guis  |seguís                                    |
+gum   |legumbre                                  |
+gun   |segunda pregunta ningún                   |
+guo   |ambiguo antiguo apaciguó                  |
+guos  |ambiguos antiguos contiguos               |
+gur   |agur augur gurbión                        |
+gus   |gusto augusto gústalo                     |
+gut   |catgut                                    |
+guz   |guzla                                     |
+ha    |ha habla hállase                          |
+hai   |haitiano                                  |
+hal   |halda halcón                              |
+ham   |hampa hambre hamburgués                   |
+hams  |hámster                                   |
+han   |han hangar hánselo                        |
+har   |azahar hartar harpoceras                  |
+hard  |hardware                                  |
+has   |has hasta hásmelo                         |
+haus  |exhausto                                  |
+hay   |hay                                       |
+haz   |haz hazte háznoslo                        |
+he    |he hecho hélice                           |
+heb   |hebdomadario                              |
+hec   |hectárea hecto héctica                    |
+hel   |helminto helvética                        |
+hem   |hembra machihémbralo                      |
+hen   |hender henchir rehén                      |
+hep   |hepta                                     |
+her   |hervir hermano hércules                   |
+hes   |enhestar                                  |
+hez   |hez mohez enmohézcase                     |
+hi    |higo hijo ahí                             |
+hia   |hiato hialino                             |
+hie   |hiere hielo adhiérala                     |
+hiel  |hiel                                      |
+hien  |hienden hiende hiéndala                   |
+hier  |hierba hierva hiérvala                    |
+hies  |enhiesta                                  |
+hil   |hilván                                    |
+him   |himno                                     |
+hin   |hindú hincha ahínco                       |
+hioi  |hioides                                   |
+hip   |hippies hipnotismo hipsométrico           |
+hir   |menhir hirsuto hirviente                  |
+his   |hispano historia histología               |
+ho    |hoja ahora hórreo                         |
+hol   |holgar alcohol holgorio                   |
+hom   |hombre hombro cohombro                    |
+hon   |honra hondo deshónrala                    |
+hon   |zahón alhóndiga deshónrala                |
+hor   |horno horchata ahórcalo                   |
+hos   |hostia hostil inhóspito                   |
+hoy   |hoy                                       |
+hoz   |hoz                                       |
+hu    |hubo humo húmedo                          |
+hua   |nahua cacahuales tiahuanaco               |
+hual  |cacahual                                  |
+huar  |chahuar                                   |
+huas  |náhuas                                    |
+huatl |náhuatl                                   |
+hue   |hueco hueso deshuésalo                    |
+huel  |huelga tehuelche huélganse                |
+huen  |pehuenche                                 |
+huer  |huerto huérfano                           |
+hues  |huestes huestecos huésped                 |
+hui   |huida huija huían                         |
+huid  |huid                                      |
+huin  |huincha                                   |
+huir  |huir                                      |
+hun   |hundir húngaro barahúnda                  |
+hur   |hurtar hurgar tahúr                       |
+hus   |husmeador                                 |
+huy   |huy                                       |
+i     |ira irá caído                             |
+ia    |iatrogenia                                |
+ic    |ictericia ictiología                      |
+id    |id oíd                                    |
+ig    |ignorar ignición ígneo                    |
+il    |raíl                                      |
+im    |impío imperio ímpetu                      |
+in    |inmundo injusto índice                    |
+ins   |insta instala instruye                    |
+io    |iodo iota iones                           |
+ion   |ion                                       |
+ip    |ipso                                      |
+ir    |ir irguió reír                            |
+is    |isla islámica leíste                      |
+ist   |istmo ístmico                             |
+ix    |ixtle                                     |
+iz    |izquierdo raíz maíz                       |
+ja    |teja hija dejáronme                       |
+jac   |jactarse                                  |
+jad   |dejad rajad dibujad                       |
+jai   |jaiba elijaisos elijáis                   |
+jais  |lijaislo elijaislo dejáis                 |
+jal   |ojal concejal hojáldrala                  |
+jam   |jamba enjambre                            |
+jan   |dejan semejan dejándola                   |
+jar   |dejar alejar cuajársele                   |
+jas   |rejas ovejas lijás                        |
+jau   |jaula jauja enjáulala                     |
+jaz   |jazmín                                    |
+jazz  |jazz                                      |
+je    |dije ajeno trabajé                        |
+jec   |interjección                              |
+jel   |mojel bajel                               |
+jem   |ejemplo                                   |
+jen   |dejen tejen jején                         |
+jer   |mujer ejercer ejército                    |
+jes   |gajes bojes majestad                      |
+jez   |vejez enrojezca envejézcase               |
+ji    |ejido aljibe bajísimo                     |
+jia   |hemiplejia                                |
+jic   |mujic                                     |
+jie   |ujieres tejiera injiérala                 |
+jien  |tejiendo crujiente granujiento            |
+jier  |ujier                                     |
+jil   |perejil concejil jilguero                 |
+jin   |jingoísmo trajín abrojín                  |
+jio   |tejiolo tejió                             |
+jir   |crujir                                    |
+jis   |cajista dijiste tejístelo                 |
+jit   |jiujitsu                                  |
+jiu   |jiujitsu                                  |
+jo    |dijo hijo alejó                           |
+joc   |jockey                                    |
+jol   |mújol frijol jolgorio                     |
+jon   |ajonje cajoncito cajón                    |
+jor   |mejor jornal ajorca                       |
+jos   |ojos hijos rojos                          |
+ju    |judío jugar júralo                        |
+jua   |juanete enjuagar achajuanarse             |
+juan  |juan donjuán                              |
+juar  |ajuar                                     |
+jue   |juego jueces juégala                      |
+juer  |juerga                                    |
+juez  |juez                                      |
+jui   |juicio benjuí                             |
+jun   |junco juntar júntense                     |
+jur   |menjurje                                  |
+jus   |justo ajustar desbarajuste                |
+juz   |juzgar                                    |
+ka    |ka kaaba kayak                            |
+kai   |káiser                                    |
+kan   |kan kantiano                              |***dudosa
+kap   |kappa                                     |
+ke    |kefir kerosén                             |
+kel   |kelvin                                    |
+ker   |kermés                                    |
+key   |jockey                                    |
+ki    |kilogramo samarskita harakiri             |
+kin   |vikingo ranking parkinsonismo             |
+kios  |kiosco                                    |
+kir   |kirguís                                   |
+kis   |pakistaní                                 |
+kle   |pickle                                    |
+ko    |uzbeko                                    |
+kos   |uzbekos                                   |
+krem  |krem                                      |
+kril  |kril                                      |
+krill |krill                                     |
+ku    |kikuyo                                    |
+kua   |makua                                     |
+kur   |kurdo                                     |
+ky    |whisky                                    |
+la    |la pela lávese                            |
+lac   |lactosa agalactia lácteo                  |
+lad   |volad señalad                             |
+lag   |estalagmita                               |
+lai   |laico lilaila balalaica                   |
+lais  |igualáis                                  |
+lal   |cefalalgia                                |
+lam   |alambre lampiño relámpago                 |
+lan   |vuelan lanza catalán                      |
+lap   |lapso colapso colápsase                   |
+lar   |largo solar rebelársele                   |
+las   |las alas elástico                         |
+lau   |laudo laurel láurea                       |
+laus  |balaustre                                 |
+lax   |relax                                     |
+lay   |balay palay achalay                       |
+laz   |falaz solaz pelazga                       |
+le    |le dile molécula                          |
+lec   |lector lección eléctrico                  |
+lech  |crónlech                                  |
+lef   |alef                                      |
+lei   |deleita desleirá aculeiforme              |
+leis  |moléis burléis inmoléis                   |
+lem   |solemne lemming lemniscata                |
+len   |salen lengua belén                        |
+lep   |epilepsia catalepsia epiléptico           |
+ler   |oler moler alérgeno                       |
+les   |dales males tirolés                       |
+let   |valet chalet                              |
+leu   |leuda aleurona seléucida                  |
+lex   |sílex télex escólex                       |
+ley   |ley                                       |
+lez   |lezna adolezca envilézcala                |
+li    |libera hálito valían                      |
+lia   |familia afiliar araliáceo                 |
+liai  |liaisos liáisosla                         |
+liais |liaisla liáis                             |
+lial  |filial                                    |
+lian  |alianza alianzas aliándose                |
+liar  |liar auxiliar liársela                    |
+lias  |alias liaste liás                         |
+lib   |molibdeno                                 |
+lic   |lictor delictivo                          |
+lid   |lid salid adalid                          |
+lie   |saliere relieve saliéronse                |
+lien  |lienzo aliento valiéndose                 |
+lier  |atelier                                   |***dudosa
+lies  |alies lieslo poliéster                    |
+lig   |maligno lignito                           |
+lim   |limbo limpio olímpico                     |
+limp  |palimpsesto                               |
+lin   |relincho linfático cilíndrico             |
+lio   |auxilio evangelio dolió                   |
+lion  |ilion rebelión familión                   |
+lios  |palios folios concilios                   |
+lip   |elipse eucalipto apocalíptica             |
+lir   |salir pulir salírsele                     |
+lis   |lis lista novelístico                     |
+lix   |félix                                     |
+liz   |cáliz feliz desliz                        |
+lla   |ella llaga halláronlo                     |
+llad  |aullad                                    |
+llais |halláis degolláis                         |
+llan  |halla huella capellán                     |
+llar  |hallar millar hollar                      |
+llas  |ellas sillas rodillas                     |
+llay  |quillay                                   |
+llaz  |hallazgo hallazgos                        |
+lle   |llega llena hallé                         |
+lleis |holléis halléis                           |
+llen  |hallen allende engulléndolo               |
+ller  |taller bachiller canciller                |
+lles  |calles valles marsellés                   |
+llet  |ballet                                    |
+llets |ballets                                   |
+llez  |sencillez amarillez embellézcala          |
+lli   |rollizo acullico bellísimo                |
+llier |cuellierguidas                            |
+llin  |hollín                                    |
+llir  |bullir mullir engullir                    |
+llis  |tallista medallista gallística            |
+lliz  |pellizco sobrepelliz pellízcala           |
+llo   |lloro caballo selló                       |
+llon  |agallón pabellón bermellón                |
+llor  |mallorquín                                |
+llos  |ellos tallos sellos                       |
+llu   |lluvia lluvias agalludo                   |
+llue  |llueve polluelo lluévame                  |
+lly   |rally                                     |
+lo    |lo colocar asoló                          |
+loi   |coloide celuloide metaloide               |
+loj   |reloj                                     |
+lom   |lombriz lombardo colombiano               |
+lon   |lonja longitud burlón                     |
+lop   |cefalóptero                               |
+lor   |olor calor xilórgano                      |
+lord  |lord milord                               |
+los   |los velos solos                           |
+loz   |veloz velozmente                          |
+lu    |luna luto lúcido                          |
+lua   |evaluación valuados                       |
+luar  |valuar avaluar baluarte                   |
+luc   |luctuoso                                  |
+lud   |alud salud talud                          |
+lue   |luego silueta valuéselo                   |
+luen  |luengo                                    |
+lues  |valueslo valués                           |
+lui   |diluido sanluiseño                        |
+luir  |diluir diluírsela                         |
+luis  |luis                                      |
+lum   |lumbre calumnia colúmpialo                |
+lun   |voluntad lunfardo                         |
+lup   |voluptuoso                                |
+lur   |palurdo metalurgia metalúrgicos           |
+lus   |lustre ilustre molusco                    |
+luz   |luz andaluz lúzcala                       |
+m     |mnemotecnia                               |
+ma    |alma malo mágico                          |
+mach  |mach                                      |
+mad   |clamad llamad aclamad                     |
+mag   |magma magnitud mágnum                     |
+mai   |amainar maizal maitines                   |
+mais  |amáis temáis llamáis                      |
+mal   |mal animal esmáltalo                      |
+mam   |mampara camambú mampuesto                 |
+man   |aman manda romántico                      |
+mar   |mar amar mártir                           |
+mas   |mas temas jamás                           |
+match |match                                     |***dudosa
+mau   |mausoleo maula máuser                     |
+maun  |extremaunción                             |
+max   |clímax maxvelio maxwell                   |
+maz   |mazmorra contumaz mazdeísmo               |
+me    |me ramera llamé                           |
+mec   |humectar                                  |
+med   |comed temed                               |
+meis  |maméis teméis derraméis                   |
+mel   |rímel jamelgo amélgala                    |
+mem   |mem membrana desmémbrala                  |
+men   |amen temen coméntalo                      |
+mens  |menstruar                                 |
+mer   |comer merced mérmala                      |
+mes   |mes ames doméstico                        |
+mey   |mamey                                     |
+mez   |mezcla mezquita adormézcalo               |
+mi    |mi comida mínimo                          |
+mia   |infamia vendimia semiárido                |
+mial  |gremial                                   |
+mian  |rumian premian premiándolo                |
+miar  |premiar agremiar encomiar                 |
+mias  |anemias infamias encomiástico             |
+miau  |miau                                      |
+mic   |micción                                   |
+mie   |miedo temiera hemiédrico                  |
+miel  |miel mielga aguamiel                      |
+miem  |miembro                                   |
+mien  |miente simiente miéntele                  |
+mier  |mierda semierguido miércoles              |
+mies  |mies simiesco semiesférico                |
+mig   |amígdala amigdaláceo                      |
+mil   |mil humilde verosímil                     |
+mim   |mimbre almimbar                           |
+min   |mintió domingo jazmín                     |
+mio   |premio encomio comió                      |
+mion  |acromion camión                           |
+mios  |premios encomios gremios                  |
+mip   |hemípteros                                |
+mir   |dormir redimir imprimírselo               |
+mis   |mis mismo consumís                        |
+miur  |demiurgo                                  |
+mix   |mixta mixtecos                            |
+miz   |tamiz almizclero almízclala               |
+mo    |olmo como formó                           |
+moc   |décimoctavo                               |
+mog   |smog                                      |
+mohi  |amohinar                                  |
+moi   |moisés etmoides                           |
+mol   |mol molde desmóldelo                      |
+mon   |monte montón timón                        |
+mons  |monstruo                                  |
+mop   |hemoptisis                                |
+mor   |amor temor mórbido                        |
+mos   |vemos olmos atmósfera                     |
+mu    |muro mucho músico                         |
+mua   |muaré                                     |
+mud   |almud                                     |
+mue   |muera muele conmuévete                    |
+muer  |muerte muerde muérdelo                    |
+mues  |muesca muestra amuéscalo                  |
+muf   |muftí                                     |
+mul   |multa multitud múltiples                  |
+mum   |máximum mínimum                           |
+mun   |mundo inmundo común                       |
+mur   |fémur lémur amúrcalo                      |
+mus   |musgo muslo músculo                       |
+mut   |mamut acimut vermut                       |
+muy   |muy                                       |
+muz   |altramuz                                  |
+na    |una lana análogo                          |
+nac   |inactivo inaccesible                      |
+nad   |sonad tornad allanad                      |
+naf   |nafta                                     |
+nai   |naipes nailon donaire                     |
+nais  |ayunáis camináis contamináis              |
+nal   |nalga banal jornal                        |
+nam   |anamnesis chinampa sonámbulo              |
+nan   |suenan ganancia inclinándose              |
+nap   |inapto delfináptero                       |
+nar   |abonar tornar anárquico                   |
+nas   |unas lunas monástico                      |
+nau   |inaudito aeronauta náusea                 |
+nay   |anay                                      |
+naz   |tenaz pertinaz názcame                    |
+ne    |nene pone profané                         |
+nec   |conecta senectud anécdota                 |
+ned   |tened poned disponed                      |
+nei   |idoneidad simultaneidad homogeneidad      |
+neis  |gneis ponéis afanéis                      |
+nel   |tonel timonel coronel                     |
+nem   |inempleado                                |***dudosa
+nen   |ponen tienen vienen                       |
+nep   |neptunio inepto                           |
+ner   |tener poner enérgico                      |
+nes   |tienes riñones japonés                    |
+neu   |neutro neurosis aneurisma                 |
+nex   |inexperto inexpugnable inexcusable        |
+ney   |araguaney                                 |
+nez   |amanezca enternezca guarnézcala           |
+ni    |ni nido venía                             |
+nia   |actinia calumnia maniático                |
+nial  |genial venial colonial                    |
+nian  |minian ingenian testimonian               |
+niar  |congeniar calumniar testimoniar           |
+nias  |etnias colonias lacinias                  |
+nic   |picnic nictagínea nictálope               |
+nid   |unid venid definid                        |
+nie   |nieve nieto uniéronse                     |
+nien  |poniente teniendo uniéndolo               |
+nier  |vernier                                   |
+nies  |minies congenies siniestro                |
+nietzs|nietzschismo                              |***dudosa
+nig   |enigma benigno enigmáticos                |
+nil   |varonil juvenil aguamanil                 |
+nim   |nimbo nímbala                             |
+nin   |ninfa ningún penínsulas                   |
+nio   |genio dominio reunió                      |
+nion  |opinión reunión comunión                  |
+nios  |ingenios designios escarnios              |
+nip   |afanípteros                               |
+nir   |unir venir unírsele                       |
+nis   |viniste ministro venís                    |
+nit   |cenit                                     |
+niu   |antimoniuro                               |
+nium  |pandemónium                               |
+nius  |nonius                                    |
+nix   |ónix fénix                                |
+niz   |codorniz barniz                           |
+no    |no sino llenó                             |
+nob   |esnob inobservancia                       |
+noc   |nocturno equinoccio noctámbulo            |
+noi   |conoide monoico adenoideo                 |
+nol   |penol metanol inolvidable                 |
+nom   |nombre                                    |
+non   |non canon esternón                        |
+nop   |sinopsis himenóptero                      |
+nor   |norte menor nórdico                       |
+nos   |nos unos agnóstico                        |
+nov   |novgorod                                  |
+noz   |conozca albornoz conózcalo                |
+nu    |nube anula insinúa                        |
+nua   |anuario atenuar continua                  |
+nual  |anual manual                              |
+nuan  |atenuante insinuando insinuándose         |
+nuar  |atenuar insinuar continuar                |
+nuas  |continuas anuas                           |
+nue   |nuera nueve continué                      |
+nuel  |manuel                                    |
+nuen  |anuencia minuendo amanuense               |
+nues  |tenues nuestro continués                  |
+nuez  |nuez                                      |
+nui   |genuino disminuiré disminuí               |
+nuir  |disminuir                                 |
+nul   |penúltimo                                 |
+num   |penumbra                                  |
+nun   |nunca inunda ranúnculo                    |
+nuo   |continuo sinuoso continuó                 |
+nuos  |ingenuos continuos                        |
+nup   |nupcias                                   |
+nur   |conurbano inurbanidad                     |
+nus   |manuscrito minusválido minúsculo          |
+nuz   |ajenuz                                    |
+ña    |caña viña señálalo                        |
+ñac   |coñac                                     |
+ñad   |señad soñad enseñad                       |
+ñai   |astriñaisos constriñaisos astriñáisosla   |
+ñais  |astriñaisla ciñaisla enseñáis             |
+ñal   |señal puñal albañal                       |
+ñan   |bañan engañan gañán                       |
+ñar   |soñar acuñar enseñártela                  |
+ñas   |uñas peñas ciñás                          |
+ñe    |ciñe tañerá engañé                        |
+ñeis  |engañéis ordeñéis                         |
+ñen   |riñen ciñen ciñéndolo                     |
+ñer   |tañer atañer                              |
+ñes   |leñes empeñes montañés                    |
+ñez   |ñoñez niñez enroñézcala                   |
+ñi    |ceñiré reñiré compañía                    |
+ñid   |ceñid teñid tañid                         |
+ñil   |añil albañil                              |
+ñir   |reñir teñir ceñir                         |
+ñis   |bañistas isleñismos brasileñismos         |
+ño    |año niño enseñó                           |
+ñol   |pañol español                             |
+ñon   |cañoncito riñón piñón                     |
+ñor   |señor ruiseñor monseñor                   |
+ños   |años caños niños                          |
+ñu    |añublo cañuto greñudo                     |
+ñue   |arañuela pañuelo abuñuélalo               |
+ñus   |apañuscar                                 |
+o     |o ora rodeó                               |
+ob    |objeto observar óbvialo                   |
+obs   |obsceno obstruido obstante                |
+oc    |octavo occidente occidental               |
+of    |oftalmia                                  |
+og    |geognosia                                 |
+oh    |oh ohmio                                  |
+ohm   |ohm                                       |
+oi    |oiga óigalo                               |
+ol    |olmo olvido olfato                        |
+om    |ombúes ombligo ómnibus                    |
+on    |onda once panteón                         |
+op    |optar optimizar óptico                    |
+or    |orden ortiga órbita                       |
+os    |os veos ósmosis                           |
+ov    |ovni                                      |
+ox    |oxhídrica                                 |
+p     |pseudo psicología pneumonía               |
+pa    |para padre pábulo                         |
+pac   |pacto pactará compacto                    |
+pad   |ocupad                                    |
+paf   |paf                                       |
+pai   |paisano paisaje sepáiselo                 |
+pais  |ocupaislo sepaislo quepáis                |
+pal   |palmo espalda pálpito                     |
+pam   |pampa pamplina pámpano                    |
+pan   |pan panza páncreas                        |
+par   |par parte apártate                        |
+pas   |pasto ropas compás                        |
+pau   |pauta pausa paulatino                     |
+pay   |curupay                                   |
+paz   |paz capaz apázcala                        |
+pe    |peca pela pésimo                          |
+pec   |aspecto respectiva expectativa            |
+pecs  |cópecs                                    |
+ped   |césped huésped                            |
+pei   |peines peinado europeizar                 |
+peis  |preocupéis                                |
+pel   |papel tropel peldaños                     |
+pen   |pensé pendón péndulo                      |
+pep   |apepsia pepsina péptico                   |
+per   |perfume permite pérdida                   |
+pers  |perspicaz perspectiva superstición        |
+pes   |naipes pescado canapés                    |
+peu   |terapéutico                               |
+pez   |pez entorpezca entorpézcala               |
+pi    |pino piso espíritu                        |
+pia   |copia piala asclepiádeas                  |
+piad  |limpiad                                   |
+pial  |pial turpial marsupial                    |
+pian  |copian limpian apropiándola               |
+piar  |espiar limpiar apropiar                   |
+pias  |rupias propias limpiaste                  |
+piau  |limpiauñas                                |
+pic   |pickle pickup pictóricos                  |
+pid   |áspid prorrumpid                          |
+pie   |pie pieza limpié                          |
+piel  |piel                                      |
+pien  |piensa sapiente rompiéndolo               |
+pier  |pierda pierna despiértate                 |
+pies  |pies limpies puntapiés                    |
+pig   |pigmea pigmento pignoración               |
+pil   |pilcha piltrafa píldora                   |
+pim   |pimpante pimpollo pimpinela               |
+pin   |pinta pintes chapín                       |
+pio   |limpio propio rompió                      |
+pion  |sarampión escorpión                       |
+pios  |limpios propios principios                |
+pir   |interrumpir prorrumpir interrumpir        |
+pis   |pistola supiste epístola                  |
+piz   |lápiz tapiz pizca                         |
+pla   |plata plaza plácido                       |
+plais |supláis cumpláis templáis                 |
+plan  |plan planta contemplándola                |
+planc |plancton                                  |
+plar  |templar ejemplar contemplar               |
+plas  |plasma aplasta plástico                   |
+plau  |aplaude aplauso                           |
+plaz  |plazca complazca complázcala              |
+ple   |simple cumple apoplético                  |
+plec  |plectro plectognato                       |
+plei  |pleito pleitesía                          |
+plen  |cumplen suplente terraplén                |
+ples  |simples triples múltiples                 |
+pleu  |pleura                                    |
+plex  |dúplex                                    |
+pli   |aplica cumplirá explícito                 |
+plia  |amplia panoplia                           |
+plian |ampliando ampliándose                     |
+pliar |ampliar                                   |
+plias |amplias panoplias ampliás                 |
+plie  |pliego espliego pliégalo                  |
+plien |supliendo cumpliendo cumpliéndose         |
+plies |ampliesla ampliés                         |
+plin  |plinto esplín poplín                      |
+plio  |amplio plioceno cumplió                   |
+plios |amplios                                   |
+plir  |suplir cumplir                            |
+plis  |cumpliste cumplís                         |
+plo   |soplo plomo contempló                     |
+plon  |soplón ramplón simplón                    |
+plos  |soplos templos ejemplos                   |
+plot  |complot                                   |
+plu   |pluma plugo plúgome                       |
+plum  |plumbagíneo plúmbeo                       |
+plus  |plus                                      |
+po    |pone poco disipó                          |
+poi   |tipoi antropoide                          |
+pol   |polvo polca pólvora                       |
+pom   |pompa pompeyano                           |
+pon   |ponga pondera arpón                       |
+pop   |pop                                       |
+por   |por porfía repórter                       |
+pos   |pos topos apóstol                         |
+post  |post postdata                             |
+poy   |tipoy                                     |
+pra   |compra pradera temprana                   |
+prac  |practica práctica                         |
+prad  |comprad                                   |
+prag  |pragmatismo                               |
+pran  |comprando compran                         |
+prar  |comprar                                   |
+pras  |compras                                   |
+pre   |presa siempre prédica                     |
+preg  |impregnado imprégnala                     |
+prehis|prehistoria                               |
+prein |preincaico                                |
+pren  |prende aprende repréndelo                 |
+pres  |presta apresto bauprés                    |
+prez  |prez                                      |
+pri   |prisa reprime exprímalo                   |
+prie  |prieta apriesa apriétala                  |
+prin  |pringue princesa príncipe                 |
+prio  |priori priora chipriota                   |
+prior |prior                                     |
+pris  |prisma aprisco prístina                   |
+pro   |proa profeta prójimo                      |
+proc  |proctología dasipróctido                  |
+pron  |pronto impronta aprontar                  |
+pros  |prospera proscrito próstata               |
+pru   |prusiano prurito prúsico                  |
+prue  |prueba pruébalo apruébalo                 |
+pu    |puño puro público                         |
+pue   |puede pueblo puéblalo                     |
+puen  |puente                                    |
+puer  |puerta puerco empuércala                  |
+pues  |pues puesto apuéstale                     |
+puf   |puf                                       |
+pug   |pugna repugna expugnar                    |
+pul   |pulpa pulga púlpito                       |
+pull  |pullman                                   |
+pum   |pum                                       |
+pun   |punta punce púnzalo                       |
+pur   |purga púrpura expurgar                    |
+pus   |pus lupus corpúsculo                      |
+puz   |capuz chapuz                              |
+qua   |exequátur                                 |
+que   |que queda pequé                           |
+quei  |traqueidas                                |
+queis |saquéis toquéis provoquéis                |
+quel  |aquel anaquel troquel                     |
+quen  |busquen prediquen henequén                |
+quer  |quermes quermés alquermes                 |
+ques  |saques duques marqués                     |
+quet  |quetzal parquet basquetbol                |
+quey  |yóquey                                    |
+quez  |apoquezca enloquezca apoquézcanla         |
+qui   |quiso quicio sequía                       |
+quia  |reliquia acequia psiquiátrico             |
+quial |braquial bronquial parroquial             |
+quian |obsequian soliloquian                     |
+quiar |esquiar acequiar obsequiar                |
+quias |acequias exequias reliquias               |
+quid  |quid                                      |
+quie  |quiero quieto quiérelo                    |
+quiem |réquiem                                   |
+quien |quien acequien obsequien                  |
+quier |doquier cualquier izquierda               |
+quies |acequies obsequies esquiés                |
+quil  |mosquil cachiquil esquílmala              |
+quin  |quince quinto quíntuplo                   |
+quio  |bronquio obsequio delinquió               |
+quios |bronquios obsequios lofobranquios         |
+quir  |faquir esquirla delinquir                 |
+quis  |quiste conquista malquistar               |
+quiu  |braquiuros                                |
+quiz  |blanquizco                                |
+quo   |quórum                                    |
+ra    |ira para dará                             | r débil
+ra    |rata rato ráelo                           | r fuerte
+rab   |rabdomancia                               | r fuerte
+rac   |caracteres aracnoides arácnido            | r débil
+rad   |mirad tirad declarádmelo                  | r débil
+rai   |raigambre                                 | r fuerte
+rai   |samurai aguaraibá adhiráisoslo            | r débil
+raid  |raid                                      | r fuerte
+rail  |rail                                      | r fuerte
+rais  |erais amarais esperáis                    | r débil
+rak   |anorak                                    | r débil
+ral   |general liberal neurálgica                | r débil
+ram   |corambre carambola carámbano              | r débil
+ran   |miran eran harán                          | r débil
+ran   |rancho rancio                             | r fuerte
+rap   |rapto rapsodia                            | r fuerte
+rar   |mirar orar tirárselo                      | r débil
+ras   |maneras caras dirás                       | r débil
+ras   |ras rascar ráscate                        | r fuerte
+rau   |arauco araucaria                          | r débil
+rau   |raudo raulí                               | r fuerte
+rax   |bórax tórax                               | r débil
+ray   |caray                                     | r débil
+raz   |montaraz lenguaraz alferazgo              | r débil
+re    |derecho parece volveré                    | r débil
+re    |reyes rebeldes residuos                   | r fuerte
+rec   |director erección eréctil                 | r débil
+rec   |recta rectangular                         | r fuerte
+red   |pared                                     | r débil
+red   |red                                       | r fuerte
+reg   |tuareg                                    | r débil
+regs  |tuaregs                                   | r débil
+rehi  |rehiciera                                 |
+rehu  |rehusar                                   |
+rei   |incorporeidad diréisoslo haréiselo        | r débil
+rei   |reino reitera reivindica                  | r fuerte
+reim  |reimpresión                               | r fuerte
+rein  |reintegra reincorpora reinvertir          | r fuerte
+reis  |fuereis oyereis haréis                    | r débil
+rel   |jurel laurel cairel                       | r débil
+rem   |harem                                     | r débil
+rem   |rempujar remplazar                        | r fuerte
+ren   |oyeren vieren harén                       | r débil
+ren   |rendir                                    | r fuerte
+rep   |reptil                                    | r fuerte
+rer   |querer querérsele                         | r débil
+res   |res resma resto                           | r fuerte
+res   |solares vieres interés                    | r débil
+ret   |cabaret                                   | r débil
+rets  |cabarets                                  | r débil
+reu   |reuma reunión reubicar                    | r fuerte
+rey   |carey                                     | r débil
+rey   |rey                                       | r fuerte
+rez   |parezca perezca parézcame                 | r débil
+ri    |herida parirá preferí                     | r débil
+ri    |riberas rinde río                         | r fuerte
+ria   |gloria feria muriático                    | r débil
+ria   |riacho riada                              | r fuerte
+riai  |riaisos riáisosla                         | r fuerte
+riais |riais sonriáis                            | r fuerte
+rial  |material imperial historial               | r débil
+rian  |variando feriante variándolo              | r débil
+riar  |variar gloriar injuriar                   | r débil
+rias  |varias ferias sonriás                     | r débil
+ric   |rictus                                    | r fuerte
+rid   |proferid herid                            | r débil
+rie   |ariete muriese muriéramos                 | r débil
+rie   |riego riégalo                             | r fuerte
+riel  |ariel                                     | r débil
+riel  |riel                                      | r fuerte
+rien  |oriente apariencia hiriéndolo             | r débil
+rien  |riéndose                                  | r fuerte
+ries  |aries tories contrariés                   | r débil
+ries  |riesgo                                    | r fuerte
+riez  |ordinariez                                | r débil
+ril   |esmeril estéril tamboril                  | r fuerte
+rim   |corimbo marimba chirimbolo                | r débil
+rim   |rimbombante                               | r fuerte
+rin   |corindón laberinto andarín                | r débil
+rin   |rincón rindiose                           | r fuerte
+rio   |ario imperio hirió                        | r débil
+rio   |riojano rionegrino rióseles               | r fuerte
+rion  |esturión satirión centurión               | r débil
+riop  |cariópsides                               | r débil
+rior  |superior interior exterior                | r débil
+rios  |riostra                                   | r fuerte
+rios  |varios agrarios perióstico                | r débil
+rir   |herir morir morírsele                     | r débil
+ris   |aristas pariste turístico                 | r débil
+ris   |risco ríspido                             | r fuerte
+rit   |aritmética algoritmo logarítmico          | r débil
+rit   |ritmo rítmico                             | r fuerte
+riun  |oriundo                                   | r débil
+rix   |arqueopterix                              | r débil
+riz   |nariz cariz                               | r débil
+ro    |aro oro juró                              | r débil
+ro    |rojo roto romo                            | r fuerte
+rock  |rock                                      | r fuerte
+rof   |xeroftalmia                               | r débil
+roi   |heroico tiroides asteroide                | r débil
+roi   |róigala                                   | r fuerte
+rol   |charol farol barberol                     | r débil
+rol   |roldana                                   | r fuerte
+rom   |rombo romper rómpala                      | r fuerte
+ron   |ataron asaron tiburón                     | r débil
+ron   |roncar rónzalo                            | r fuerte
+rop   |neuróptero quiróptero heterópteros        | r débil
+ror   |furor superorgánica                       | r débil
+ror   |rorcual                                   | r fuerte
+ros   |oros loros aeróstato                      | r débil
+ros   |rosca rostro                              | r fuerte
+round |round                                     | r fuerte ***dudosa
+roz   |feroz                                     | r débil
+roz   |roznar                                    | r fuerte
+rra   |sierra tierra subterráneo                 |
+rrai  |arraigar                                  |
+rrais |aporráis                                  |
+rral  |corral morral matorral                    |
+rram  |arramblar                                 |
+rran  |errante córranse subterráneo              |
+rrar  |errar borrar enterrar                     |
+rras  |zorras sierras aguarrás                   |
+rraz  |albarraz                                  |
+rre   |corre torre querré                        |
+rrec  |correcto insurrecto semirrecta            |
+rred  |corred barred socorred                    |
+rreg  |interregno                                |
+rrei  |virreinato querréismela                   |
+rreis |querreisla curréis agarréis               |
+rrem  |arrempujar irremplazable                  |
+rren  |yerren corren horrendo                    |
+rrer  |barrer correr recorrer                    |
+rres  |borres corres cerrés                      |
+rreu  |antirreumático                            |
+rrey  |virrey pejerrey                           |
+rrez  |aborrezco aborrézcala                     |
+rri   |arriba arrimar socorrí                    |
+rria  |alcarria descarriado entrerriano          |
+rriad |arriad                                    |
+rrial |barrial andurrial                         |
+rrian |arriándola                                |
+rriar |arriar chirriar descarriar                |
+rriaz |arriaz                                    |
+rrie  |corrieron recorriera arrié                |
+rrien |arriendo corriente barriéndolo            |
+rries |arriesgado descarriesla arriésgate        |
+rril  |cerril barril ferrocarril                 |
+rrin  |berrinche arrinconar aserrín              |
+rrio  |barrio gorriona recurrió                  |
+rrion |gorrión morrión cerrión                   |
+rrios |barrios arriostrar                        |
+rrir  |ocurrir incurrir ocurrírsele              |
+rris  |corriste arriscado pizarrista             |
+rrit  |arritmia polirritmo arrítmico             |
+rro   |carro arroja desterró                     |
+rroi  |corroiga hemorroides corróigalo           |
+rrom  |corromper irrompible corrómpelo           |
+rron  |morrongo arronquecen desgarrón            |
+rror  |error terror horror                       |
+rros  |carros perros arrostrar                   |
+rrot  |pierrot                                   |
+rroz  |arroz                                     |
+rru   |arruga arruruz charrúa                    |
+rrua  |carruaje                                  |
+rruar |arruar                                    |
+rrui  |arruinar                                  |
+rruir |derruir                                   |
+rrum  |herrumbre prorrumpir derrúmbalo           |
+rrun  |arrunflar barruntar                       |
+rrup  |irrupción corruptor interruptor           |
+rrus  |churruscar corrusco                       |
+rruz  |arrurruz                                  |
+ru    |rugir rumor rúmialo                       | r fuerte
+ru    |uruguayo oruga saurúnido                  | r débil
+rua   |peruano                                   | r débil
+rua   |ruano                                     | r fuerte
+ruar  |garuar                                    | r débil
+rub   |querub                                    | r débil
+ruc   |eructar                                   | r débil
+rue   |noruego ciruela viruela                   | r débil
+rue   |rueda ruego ruégale                       | r fuerte
+rues  |garués                                    | r débil
+rug   |rugby                                     | r fuerte
+rui   |ruinas ruina ruido                        | r fuerte
+ruin  |ruin                                      | r fuerte
+rum   |quórum                                    | r débil
+rum   |rumbo rumba                               | r fuerte
+run   |gerundio saurúnido                        | r débil
+run   |runrún                                    | r fuerte
+rup   |erupción                                  | r débil
+rup   |ruptor                                    | r fuerte
+rur   |quirurgia interurbano siderúrgico         | r débil
+rus   |rusticidad rústico                        | r fuerte
+rus   |virus arúspice                            | r débil
+ruz   |arruruz                                   | r débil
+s     |smog                                      |***dudosa
+sa    |casa cosa sábado                          |
+sac   |desactivar transacciones desactualizar    |
+sad   |usad pasad alisad                         |
+sahu  |sahumerio                                 |
+sai   |desáiralo                                 |
+sai   |sainete prosaico desáiralo                |
+saint |saintsimonismo                            |***dudosa
+sais  |desaislar pasáis pensáis                  |
+sal   |sal salmo basáltico                       |
+sam   |asamblea ensamble desamparo               |
+san   |san usan usándolo                         |
+sans  |sánscrito                                 |
+sar   |pasar cesar resárcelo                     |
+sas   |casas gasas pasás                         |
+sau   |camesáuridos                              |
+sau   |sauce saurio sauces                       |
+saz   |asaz                                      |
+se    |se sebo sé                                |
+sec   |secta sección interséctalo                |
+sed   |sed cosed tosed                           |
+seg   |segmentos                                 |
+sei   |seibo gaseiforme dieciseisavo             |
+seis  |seis fueseis ceséis                       |
+sel   |dosel selvas madreselvas                  |
+sem   |sembrar desempeño sempiterno              |
+sen   |senda presente kerosén                    |
+sep   |antisepsia septiembre séptimo             |
+ser   |ser aserto desértico                      |
+ses   |meses dieses pensés                       |
+seu   |pseudo seudónimo                          |
+sex   |sexto sextante séxtuplo                   |
+sey   |jersey                                    |
+sez   |osezno escasez insulsez                   |
+si    |si sido así                               |
+sia   |ansia demasiado mesiánico                 |
+sian  |anestesian lisian                         |
+siar  |lisiar extasiar heresiarca                |
+sias  |iglesias entusiasmo eclesiástico          |
+sic   |sic                                       |
+sie   |siega siete pusiéronse                    |
+siem  |siembra siempre siémbrala                 |
+sien  |siendo sienten siéndoles                  |
+sier  |sierpe siervo desierto                    |
+sies  |siesta bisiesto ansiés                    |
+sig   |signo insigne desígnelo                   |
+sikhs |sikhs                                     |
+sil   |silbo silbarán sílfide                    |
+sim   |simple simpatía símbolo                   |
+sin   |sin sintió síntesis                       |
+sio   |ansioso presiona fisiólogo                |
+sion  |sion prisión visión                       |
+sios  |gimnasios polinesios melanesios           |
+sioux |sioux                                     |
+sir   |asir sirve sírvala                        |
+sis   |sismo pusiste sísmico                     |
+sit   |accésit                                   |
+siu   |siu                                       |
+so    |solo sobre pasó                           |
+sob   |desobstruir                               |
+soft  |software                                  |
+soi   |desoiga elipsoide desóigala               |
+sois  |sois                                      |
+sol   |sol solté soldar                          |
+sols  |solsticio                                 |
+som   |sombra asombro asómbrense                 |
+son   |son sondas tesón                          |
+sor   |sor sordo desórdenes                      |
+sos   |vasos fosos isósceles                     |
+soy   |soy                                       |
+su    |su sufrir súbito                          |
+sua   |suave usuales casuárido                   |
+sual  |usual casual visual                       |
+sub   |subvertir subsistir súbditos              |
+suc   |succión                                   |
+sud   |sud                                       |
+sue   |suena suele consuélelo                    |
+suel  |suelda sueldo suéltate                    |
+suer  |suerte                                    |
+sues  |sueste consensues consensués              |
+sui   |suizo suicida jesuítico                   |
+suis  |casuística                                |
+sul   |sultán resulta insúltalo                  |
+sun   |asunto asuntos suntuoso                   |
+sur   |sur surgir súrcalo                        |
+sus   |sus suscrito susto                        |
+ta    |plata punta está                          |
+tab   |batab                                     |
+tabs  |batabs                                    |
+tac   |tacto intacto táctil                      |
+tad   |mitad estad cantad                        |
+tai   |taimado deltaico consintáisosla           |
+tais  |estaisle advirtaisle estáis               |
+tal   |tal metal nostálgico                      |
+tam   |tambor también tampoco                    |
+tan   |tan tanto están                           |
+tar   |altar cantar tártaro                      |
+tas   |latas matas estás                         |
+tat   |aerostatmio                               |
+tau   |restaurar tautología restáuralo           |
+tay   |estay patay yatay                         |
+taz   |capataz hartazgo almirantazgo             |
+te    |te ante corté                             |
+tec   |protección tecnicismo técnicos            |
+ted   |usted                                     |
+teg   |apotegma                                  |
+tei   |proteico atrajísteisos abstuvísteisos     |
+teis  |visteis amasteis metéis                   |
+tel   |hotel cartel capitel                      |
+tem   |tembló templo témpano                     |
+ten   |ten tentar estén                          |
+ter   |eterno externo térmico                    |
+tes   |gentes montes cortés                      |
+test  |test                                      |
+teu   |teutón pasteuriza enfitéutico             |
+teur  |amateur                                   |
+tex   |texto textil pretéxtalo                   |
+tez   |tez sensatez apetézcalo                   |
+theid |apartheid                                 |
+ti    |ti altivez metí                           |
+tia   |tiara bestia antiácido                    |
+tial  |bestial manantial celestial               |
+tian  |sitian abestian cristiandad               |
+tiar  |hastiar angustiar amnistiar               |
+tias  |bestias molestias angustias               |
+tic   |tic tictac                                |
+tid   |vestid partid                             |
+tie   |tiene detiene metiéramos                  |
+tiem  |tiempo tiembla septiembre                 |
+tien  |tienda atiende tiéndelos                  |
+tier  |tierno estiércol                          |
+ties  |tiesto antiestético hastiés               |
+tig   |estigma astigmático                       |
+tiim  |antiimperialismo                          |
+tiin  |antiinflamatorio                          |
+til   |útil fértil tílburi                       |
+tim   |timbó timbre tímpano                      |
+tin   |tinta extinguir latín                     |
+tio   |patio sitio metió                         |
+tion  |catión gestión cuestión                   |
+tios  |patios sitios vatios                      |
+tir   |abatir mártir extírpalo                   |
+tis   |comiste batiste mentís                    |
+tiu   |veintiuno veintiúnico                     |
+tiun  |veintiún                                  |
+tiz   |matiz tizne tíznala                       |
+tl    |náhuatl                                   |
+tla   |nahualtlacas                              |
+tlan  |atlantes atlántico                        |
+tlas  |atlas                                     |
+tlax  |tlaxcalteca                               |
+tle   |atleta nahuatle atléticos                 |
+tles  |nahuatles                                 |
+tlon  |pentatlón                                 |
+to    |todo esto gritó                           |
+toc   |autóctono                                 |
+tog   |plectognato                               |
+tohu  |autohumillación                           |
+toi   |estoico deltoides alantoides              |
+toin  |autoinducción                             |
+tol   |toldos apóstol entóldalo                  |
+tom   |hecatombe tómbola                         |
+ton   |tonto entonces ratón                      |
+top   |autopsia acantopterigio |ortópteros       |
+tor   |actor pastor tórtola                      |
+tos   |tos cortos estratósfera                   |
+toy   |estoy                                     |
+tra   |otra traen trámite                        |
+trac  |tracto extracto retráctil                 |
+trad  |entrad mostrad                            |
+trai  |traigo traición tráigasela                |
+trais |entráis mostráis suministráis             |
+tral  |teatral central austral                   |
+tram  |trampa entrampar entrambos                |
+tran  |entran registran tránsito                 |
+trans |transmigra transporte transmitir          |
+trar  |entrar mostrar demostrárselo              |
+tras  |tras letras atrás                         |
+trau  |trauma                                    |
+trax  |ántrax                                    |
+traz  |matraz alcatraz maestrazgo                |
+tre   |entre postre trémulo                      |
+trein |treinta                                   |
+treis |entréis postréis                          |
+trel  |petrel                                    |
+tren  |tren nutren trénzalo                      |
+trep  |atrepsia estreptococo                     |
+trer  |postrer                                   |
+tres  |tres catres estrés                        |
+tri   |trigo trilla simetría                     |
+tria  |patria nutria triásico                    |
+trial |industrial                                |
+trian |triangular repatrian triángulo            |
+triar |estriar patriarca expatriar               |
+trias |patrias industrias                        |
+tric  |estricto constrictor estricnina           |
+trie  |trienal nutriero restriégalo              |
+trien |expatrien nutrientes                      |
+tries |estrieslo repatrieslo repatriés           |
+tril  |atril maestril cuchitril                  |
+trin  |trinchera trinca intrínseco               |
+trio  |atrio arbitrio patriótico                 |
+trion |histrión anfitrión septentrión            |
+trios |atrios patrios arbitrios                  |
+trip  |triptongo tríptico                        |
+trir  |nutrir                                    |
+tris  |tris triste letrística                    |
+triun |triunfo triunvirato                       |
+triz  |matriz actriz motriz                      |
+tro   |otro trono entró                          |
+troi  |troica introito electroimán               |
+troin |gastrointestinal                          |
+troj  |troj                                      |
+trol  |control                                   |
+trom  |trompo tromba estrómbido                  |
+tron  |tronco tronchar patrón                    |
+tros  |otros cetros antróstomo                   |
+troy  |troy                                      |
+troz  |atroz                                     |
+tru   |destruye instruye estrújalo               |
+trua  |menstrua                                  |
+trual |menstrual                                 |
+truc  |estructura destructor instrucción         |
+true  |trueno trueque atruénala                  |
+truen |estruendo                                 |
+trues |menstrués                                 |
+trui  |destruido obstruido construía             |
+truid |destruid obstruid instruid                |
+truir |destruir obstruir instruir                |
+truis |altruismo destruiste                      |
+trun  |truncado trúncala                         |
+truo  |menstruo monstruo                         |
+truos |menstruos monstruos                       |
+trus  |etrusca                                   |
+trust |trust                                     |
+truz  |avestruz                                  |
+tu    |tu tuvo tú                                |
+tua   |situada estatua perpetua                  |
+tual  |actual puntual habitual                   |
+tuan  |actuando exceptuando efectuándolo         |
+tuar  |actuar efectuar tatuármelo                |
+tuas  |mutuas estatuas perpetuas                 |
+tud   |virtud quietud multitud                   |
+tue   |hebitué efectué tuétanos                  |
+tuen  |atuendo                                   |
+tuer  |tuerto tuerce tuércelo                    |
+tues  |tuesto actuesla acentués                  |
+tui   |fortuito restituiré instituí              |
+tuian |constituian                               |
+tuid  |restituid constituid destituid            |
+tuir  |restituir constituir destituir            |
+tul   |tul tutulxiu estulticia                   |
+tum   |tumba costumbre túmbala                   |
+tun   |tunda tundra tuntún                       |
+tuo   |suntuoso perpetuo actuó                   |
+tuos  |mutuos perpetuos                          |
+tur   |turba aturde litúrgico                    |
+turf  |turf                                      |
+tus   |tus status patatús                        |
+tut   |tutsis                                    |
+tuz   |testuz                                    |
+u     |u una aúlla                               |
+ud    |laúd ataúd                                |
+uf    |uf                                        |
+ul    |ultramar ultrajado último                 |
+um    |umbral umbrío umbroso                     |
+un    |un ungid aún                              |
+ur    |urdir urgir úrsido                        |
+us    |usted balaústre                           |
+uz    |uzbekos                                   |
+va    |vara lava vámonos                         |
+vac   |vivac                                     |
+vad   |llevad salvad abrevad                     |
+vai   |vaina vaivén hirváisosla                  |
+vais  |vais hirvaisla viváis                     |
+val   |oval rival válgame                        |
+vals  |vals                                      |
+vam   |vampiro                                   |
+van   |van levan desván                          |
+var   |cavar llevar llevárselo                   |
+vas   |uvas cuevas vástago                       |
+vaz   |vivaz                                     |
+ve    |ve nieve cavé                             |
+vec   |provecta invectiva convección             |
+ved   |ved volved                                |
+vei   |correveidile                              |
+vein  |veinte veintiún veintiuno                 |
+veis  |veis volvéis atrevéis                     |
+vel   |nivel clavel esparavel                    |
+ven   |vende vendrá vaivén                       |
+ver   |ver verdad vértigo                        |
+ves   |aves naves revés                          |
+vez   |vez calvez altivézcase                    |
+vi    |vida viña vía                             |
+via   |novia lluvia viático                      |
+viad  |enviad                                    |
+viais |aviáis enviáis                            |
+vial  |fluvial trivial sinovial                  |
+vian  |vianda enviando enviándolo                |
+viar  |aviar enviar desviar                      |
+vias  |lluvias enviaste ataviaste                |
+viaz  |noviazgo                                  |
+vic   |victoria convicto víctima                 |
+vid   |vid vivid servid                          |
+vie   |viene vieron envié                        |
+vieis |aviéis enviéis                            |
+viem  |noviembre                                 |
+vien  |viendo viento moviéndolo                  |
+vier  |viernes advierta diviértele               |
+vies  |abrevies agravies enviés                  |
+viet  |soviet vietnamita                         |
+vil   |vil evil civil inmóvil                    |
+vim   |ovimbundu                                 |
+vin   |vindicar provincia llavín                 |
+vio   |novio alivio volvió                       |
+viol  |raviol                                    |
+vion  |avión envión aluvión                      |
+vios  |nervios servios agravios                  |
+vir   |vivir virtud vírgenes                     |
+vis   |vista vistan víspera                      |
+vit   |superávit                                 |
+viu   |viuda interviú                            |
+viz   |vizco cerviz vizcachas                    |
+vo    |tuvo nuevo salvó                          |
+vod   |vodka                                     |
+voi   |voivodato ovoide                          |
+vol   |volcar volver revólver                    |
+volt  |volt                                      |
+volts |volts                                     |
+von   |pavón malvón socavón                      |
+vor   |favor pavor vórtice                       |
+vos   |vivos huevos salvos                       |
+voy   |voy convoy                                |
+voz   |voz altavoz tornavoz                      |
+vu    |óvulo válvula bravura                     |
+vue   |vuela vuelo vuélala                       |
+vuel  |vuelve revuelve vuélvase                  |
+vues  |vuestro                                   |
+vul   |vulgo vulgar divulgado                    |
+wa    |hardware waterpolo hawaiano               |
+wag   |wagneriano                                |***dudosa
+wal   |walkiria                                  |
+watt  |watt                                      |
+watts |watts                                     |
+well  |maxwell                                   |
+whis  |whisky                                    |
+wi    |kiwi                                      |
+win   |wínchester                                |
+wis   |wiski                                     |
+wol   |wolfram wólfram                           |
+xa    |examen exagera hexágono                   |
+xac   |exacto exactor                            |
+xal   |coxal exaltar exáltala                    |
+xan   |exangüe laxante exantema                  |
+xar   |laxar anexar exarcado                     |
+xas   |anexas conexas convexas                   |
+xe    |execra exequias exégesis                  |
+xen   |exento anexen indexen                     |
+xer   |boxer                                     |
+xers  |boxers                                    |
+xes   |anexes indexes laxes                      |
+xi    |éxito auxilio oxígeno                     |
+xia   |asfixia galaxia caquexia                  |
+xial  |axial                                     |
+xian  |asfixian                                  |
+xiar  |asfixiar                                  |
+xias  |asfixias galaxias asfixiás                |
+xie   |asfixie                                   |
+xien  |asfixien                                  |
+xies  |asfixies asfixiés                         |
+xio   |axioma inflexiones afluxionarse           |
+xion  |conexión anexión flexión                  |
+xir   |elixir                                    |
+xis   |exista praxis sintaxis                    |
+xiu   |oxiuro tutulxiu                           |
+xius  |tutulxius tutulxiús                       |
+xix   |haxix                                     |
+xo    |sexo anexo exótico                        |
+xof   |exoftalmia                                |
+xon   |claxon axón                               |
+xor   |exornar exordio exórdiala                 |
+xos   |sexos anexos ortodoxos                    |
+xu    |exuda exubera                             |
+xua   |sexuales                                  |
+xual  |sexual                                    |
+xul   |exultante                                 |
+xuo   |flexuoso                                  |
+y     |y                                         |
+ya    |ya haya carayá                            |
+yac   |yac                                       |
+yai   |atribuyaisos concluyaisos concluyáisosla  |
+yais  |atribuyaisle contribuyaislo vayáis        |
+yak   |yak kayak                                 |
+yal   |yuyal sayal albayalde                     |
+yam   |yambo yámbico                             |
+yan   |hayan vayan arrayán                       |
+yar   |apoyar soslayar desmayar                  |
+yas   |hayas vayas vayás                         |
+yau   |yaucateco                                 |
+yaz   |yaz yazga                                 |
+ye    |huye oyere destruyéronla                  |
+yec   |inyecto abyecto proyecto                  |
+yeis  |desmayéis                                 |
+yel   |yelmo joyel                               |
+yen   |oyen huyen yéndose                        |
+yer   |ayer yermo desyérbalo                     |
+yes   |ayes leyes reyes                          |
+yeu   |mayéutica                                 |
+yez   |emplebeyezca emplebeyézcala               |
+yi    |onomatopéyico cucúyido                    |
+yis   |ensayista tramoyista                      |
+yo    |oyó cayó huyó                             |
+yo    |yo rayo huyó                              |
+yon   |rayón                                     |
+yor   |mayor mayordomo neoyorquino               |
+yos   |cuyos tuyos arroyos                       |
+yu    |yugo ayuda manguruyú                      |
+yue   |arroyuelos rayuela hoyuelos               |
+yun   |yunta yunque coyunda                      |
+yus   |mayúsculo                                 |
+yux   |yuxtaponer                                |
+za    |choza cabeza quizá                        |
+zad   |alzad forzad enderezad                    |
+zag   |zigzag                                    |
+zai   |zaino dulzaina                            |
+zais  |cazáis torzáis                            |
+zal   |tozal bozal zorzal                        |
+zam   |zampoña azamboa zambaigo                  |
+zan   |gozan alzando holgazán                    |
+zar   |zarza alcázar cruzársela                  |
+zas   |plazas lanzas quizás                      |
+ze    |zeta zedilla zepelín                      |
+zei   |cruzeiro                                  |
+zeug  |zeugma                                    |
+zi    |nazi azimut enzima                        |
+zia   |razia celazia hertziana                   |
+zig   |zigzag                                    |
+zin   |zingarito zíngaro                         |
+zinc  |zinc                                      |
+zis   |nazis                                     |
+zo    |lazo hizo alzó                            |
+zoi   |paleozoico cenozoicos mesozoicos          |
+zol   |benzol ocozol azolvar                     |
+zon   |zonzo horizonte razón                     |
+zor   |azor dulzor escozor                       |
+zos   |lazos mozos zarzos                        |
+zu    |zumo azufre azúcar                        |
+zue   |azud                                      |
+zue   |azuela anzuelo desanzuélalo               |
+zul   |azul                                      |
+zum   |zumbar azumbre zúmbale                    |
+zun   |zuncho enzúnchala                         |
+zur   |azur zurdo zúrcela                        |
+zuz   |orozuz

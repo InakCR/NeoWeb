@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+
+<div>
+    <h2><p>Catalogar</p></h2>
+</div>
+{% for message in messages %}
+    <div class="alert alert-{{ message.tags }}">{{ message }}</div>
+{% endfor %}
+<div class="catalogando">
+    <div class="container">
+        <table id="example" class="display" style="width:100%">
+            <thead>
+            <tr>
+                <th>Neologismo</th>
+                <th>Fecha</th>
+                <th>Bio</th>
+                <th>Localizacion</th>
+                <th>Ejemplo</th>
+                <th>Accion</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for cand in cands %}
+                {% if cand.ads %}
+                    <tr class="table-success">
+                {% elif cand.disc %}
+                    <tr class="table-warning">
+                {% else %}
+                    <tr>
+                {% endif %}
+                    <th>{{cand}}</th>
+                    <th>{{cand.date}}</th>
+                    <th>{{cand.bio}}</th>
+                    <th>{{cand.local}}</th>
+                    <th>{{cand.tweet}}</th>
+                    <th><a href="{% url 'linguista:admitir' %}?cand={{ cand }}">
+                        {% if cand.ads %}
+                        <button type="button" class="btn btn-primary disabled">Aceptar</button>
+                        {% else %}
+                        <button type="button" class="btn btn-primary">Aceptar</button>
+                        {% endif %}</a>
+                        <a href="{% url 'linguista:denegar' %}?cand={{ cand }}">
+                        {% if cand.disc %}
+                        <button type="button" class="btn btn-primary disabled">Descartar</button>
+                        {% else %}
+                        <button type="button" class="btn btn-primary">Descartar</button>
+                        {% endif %}</a>
+                    </th>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}
+{% block scripts %}
+<script type="text/javascript"
+        src="https://cdn.datatables.net/r/bs-3.3.5/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				$('#example').DataTable();
+			} );
+
+</script>
+<script type="text/javascript">
+	// For demo to fit into DataTables site builder...
+	$('#example')
+		.removeClass( 'display' )
+		.addClass('table table-hover table-responsive-md table-fixed');
+
+
+</script>
+{% endblock %}

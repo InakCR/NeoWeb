@@ -1,0 +1,44 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% block title %}Dominio | Titulo pagina {% endblock %}</title>
+    <meta name="description" content="{% block description %}{% endblock %}"/>
+	
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+    <div class="cabecera">
+        <h1><p align="center">Aplicacion De Neologismos</p></h1>
+        {% if user.is_authenticated %}
+        <div class=login>
+            <p> Usuario : {{ user.get_username }}</p>
+            {% else %}
+            <p class=login><a href="{% url 'linguista:loguearse' %}">Login</a></p>
+            {% endif %}
+        </div>
+    </div>
+    {% block head %}
+    {% endblock %}
+</head>
+
+<body>
+
+
+<div class="container">
+    {% block content %}
+    {% endblock %}
+</div>
+<div class="footer">
+    {% include "footer.html" %}
+</div>
+{% block scripts %}
+{% endblock %}
+</body>
+</html>

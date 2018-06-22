@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<body>
+<div>
+    <h2><p>Procesando</p></h2>
+</div>
+<div class="procesando">
+    {% for l in linea %}
+    <p>{{ l }}</p>
+    {% endfor %}
+    <a href="{% url 'linguista:catalogar' %}" class="btn btn-success disabled" role="button">Completado</a>
+    <a href="{% url 'linguista:catalogar' %}" class="btn btn-success" role="button">Completado</a>
+</div>
+</body>
+{% endblock %}

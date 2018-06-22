@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row1">
+    <div class="search-container">
+        <form action="{% url 'linguista:buscar' %}">
+            <input type="text" placeholder="Buscar Neologismo" name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+    {% if user.is_authenticated %}
+    <div class="button-container">
+        <a href="{% url 'linguista:catalogar' %}">
+            <button type="button" class="btn btn-primary">Catalogar</button>
+        </a>
+        <a href="{% url 'linguista:procesar' %}">
+            <button type="button" class="btn btn-primary">Procesar</button>
+        </a>
+    </div>
+    {% else %}
+    {% endif %}
+
+
+</div>
+<div class="row2">
+    <h3><p align="center"><a href="{% url 'linguista:index_by' %}?letter=a ">A</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=b ">B</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=c ">C</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=d ">D</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=e ">E</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=f ">F</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=g ">G</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=h ">H</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=i ">I</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=j ">J</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=k ">K</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=l ">L</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=m ">M</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=n ">N</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=ñ ">Ñ</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=o ">O</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=p ">P</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=q ">Q</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=r ">R</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=s ">S</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=t ">T</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=u ">U</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=v ">V</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=x ">X</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=w ">W</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=y ">Y</a> | <a
+            href="{% url 'linguista:index_by' %}?letter=z ">Z</a></p>
+    </h3>
+</div>
+
+<div class="main">
+    {% block main-content %}{% endblock %}
+</div>
+{% endblock %}
+
