@@ -9,15 +9,18 @@
         <p><a href="{% url 'linguista:index' %}?n={{ neo }} ">{{ neo }}</a></p>
         {% endfor %}
         </div>
-    {% if n %}
-    <div class=leyenda>
-        <h3><i><p>{{ n }}</p></i></h3>
-        <p><b><u>Fecha:</u></b> {{ n.date }}</p>
-        <p><b><u>Perfil/Perfiles:</u></b> {{ n.bio }}</p>
-        <p><b><u>Localizacion/es:</u></b> {{ n.local }}</p>
-        <b><u><p>Tweets de Contexto:</p></u></b>
-        <p>{{ n.tweet }}</p>
-    </div>
-    {%endif%}
+        {% if n %}
+        <div class=leyenda>
+            <h3><i><p>{{ n }}</p></i></h3>
+            <p><b><u>Fecha:</u></b> {{ n.date }}</p>
+            <p><b><u>Perfil/Perfiles:</u></b> {{ n.bio }}</p>
+            <p><b><u>Localizacion/es:</u></b> {{ n.local }}</p>
+            <b><u><p>Tweets de Contexto:</p></u></b>
+            <p>{{ n.tweet }}</p>
+        </div>
+        {%endif%}
+        <div>
+        <p class="number">Nº de Neologismos: {{ nn }}, Nº de Candidatos: {{ nc }}  </p>
+        </div>
     </body>
 {% endblock %}

@@ -25,7 +25,7 @@ SECRET_KEY = 'q%i1k6rdcv2k!66$q7$6sr&27(nl)27^qgc9p^60#wt*_w=q&9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['150.244.49.228', 'localhost','127.0.0.1']
+ALLOWED_HOSTS = ['150.244.51.78', 'localhost','127.0.0.1','numancia.lllf.uam.es']
 
 
 # Application definition

@@ -16,11 +16,13 @@
 	<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
     <div class="cabecera">
         <h1><p align="center">Aplicacion De Neologismos</p></h1>
+        <p><a href="{% url 'linguista:about' %}">Acerca De</a></p>
         {% if user.is_authenticated %}
         <div class=login>
             <p> Usuario : {{ user.get_username }}</p>
+             <p><a href="{% url 'linguista:logout' %}">Logout</a></p>
             {% else %}
-            <p class=login><a href="{% url 'linguista:loguearse' %}">Login</a></p>
+            <p><a href="{% url 'linguista:loguearse' %}">Login</a></p>
             {% endif %}
         </div>
     </div>

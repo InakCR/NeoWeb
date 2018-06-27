@@ -6,16 +6,16 @@
     float:right;
 }
 .footer {
-  margin-top: 15px;
-  padding: 6px 10px;
+  margin-top: 50px;
+  padding: 10px 20px;
 }
 .topnav .search-container {
   float: right;
 }
 
 .topnav input[type=text] {
-  padding: 6px;
-  margin-top: 8px;
+  padding: 12px;
+  margin-top: 16px;
   font-size: 17px;
   border: none;
 }
@@ -38,7 +38,6 @@
 
 .row1 {
      overflow: auto;
-
 }
 .row2 {
      overflow: auto;
@@ -58,6 +57,6 @@
 .login {
   float: right;
   padding: 6px 10px;
-  margin-top: -50px;
+  margin-top: -40px;
   margin-right: 100px;
 }

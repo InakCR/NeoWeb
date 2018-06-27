@@ -72,7 +72,7 @@ class JsonTweet(object):
         conex = ConexionBD()
         info = conex.put_tweet(self.identificador, json.dumps(self, default=jdefault, ensure_ascii=False))
 
-        with open("info", mode='a', encoding="utf8") as out:
+        with open("info.log", mode='a', encoding="utf8") as out:
             out.write(json.dumps(info))
             out.write('\r')
 

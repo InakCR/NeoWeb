@@ -5,6 +5,14 @@
 <div>
     <h2><p>Catalogar</p></h2>
 </div>
+<div class="selector">
+    <div class="btn-group">
+        <a href="{% url 'linguista:catalogar' %}" class="btn btn-primary" role="button">Todos</a>
+        <a href="{% url 'linguista:catalogar' %}?filter=cand" class="btn btn-primary" role="button">Candidatos</a>
+        <a href="{% url 'linguista:catalogar' %}?filter=ad" class="btn btn-primary" role="button">Admitidos</a>
+        <a href="{% url 'linguista:catalogar' %}?filter=dis" class="btn btn-primary" role="button">Descartados</a>
+    </div>
+</div>
 {% for message in messages %}
     <div class="alert alert-{{ message.tags }}">{{ message }}</div>
 {% endfor %}

@@ -38,6 +38,21 @@ class ConexionBD:
             return False
         return True
 
+    def get_nc(self):
+        query = {"query": {"match_all": {}}}
+
+        return self.es.count(index=self.INDEX_ADS, doc_type=self.TYPE, body=query)
+
+    def ger_ne(self):
+
+        hits = self.get_tweet()
+        neos = set()
+
+        for hit in hits:
+            neos.add(hit['_source']['unk'])
+
+        return len(neos)
+
     def get_tweet(self, disc=True, ads=True):
         query = {"query": {"match_all": {}}}
         lista = ["tweetO", "perfil", "localizacion", "fecha", "unk"]

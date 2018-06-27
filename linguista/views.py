@@ -10,10 +10,17 @@ from .JsonTweet import JsonTweet
 from .extract import Extract
 from .models import Neo, Candidato
 
+nn = 0
+nc = 0
+
 
 def index(request):
     conx = ConexionBD()
     conx.crear()
+
+    if nn == 0 and nc == 0:
+        setConteo(conx)
+
     neos = get_neologismos_last()
     if request.method == 'GET':
         neo = request.GET.get('n', None)
@@ -23,11 +30,24 @@ def index(request):
                     context = {
                         "n": n,
                         "neos": neos,
+                        "nc": nc,
+                        "nn": nn,
                     }
                     return render(request, 'index.html', context)
-    context = {
-        "neos": neos,
-    }
+    if neos:
+        n = neos[0]
+        context = {
+            "n": n,
+            "neos": neos,
+            "nc": nc,
+            "nn": nn,
+        }
+    else:
+        context = {
+            "neos": neos,
+            "nc": nc,
+            "nn": nn,
+        }
     return render(request, 'index.html', context)
 
 
@@ -39,10 +59,19 @@ def index_by(request):
     letter = letter.upper()
     letter += letra
 
-    context = {
-        "letter": letter,
-        "neos": neos,
-    }
+    if neos:
+        n = neos[0]
+        context = {
+            "letter": letter,
+            "neos": neos,
+            "n": n,
+        }
+    else:
+        context = {
+            "letter": letter,
+            "neos": neos,
+        }
+
     return render(request, 'index_byLetter.html', context)
 
 
@@ -63,10 +92,20 @@ def index_by_neo(request):
                     }
                     return render(request, 'index_byLetter.html', context)
 
-    context = {
-        "letter": letter,
-        "neos": neos,
-    }
+    if neos:
+        n = neos[0]
+        context = {
+            "letter": letter,
+            "neos": neos,
+            "n": n,
+        }
+    else:
+        context = {
+            "letter": letter,
+            "neos": neos,
+        }
+
+
     return render(request, 'index_byLetter.html', context)
 
 
@@ -186,6 +225,11 @@ def admitir(request):
         localizacion += local + "," + '\n'
         fecha += date + "," + '\n'
 
+    tweeto = tweeto[:-2]
+    perfil = perfil[:-2]
+    localizacion = localizacion[:-2]
+    fecha = fecha[:-2]
+
     tj = JsonTweet(tweeto, perfil, localizacion, fecha)
     tj.add_unk(neo)
     tj.put_admitido()
@@ -226,6 +270,11 @@ def denegar(request):
         perfil += bio + "," + '\n'
         localizacion += local + "," + '\n'
         fecha += date + "," + '\n'
+
+    tweeto = tweeto[:-2]
+    perfil = perfil[:-2]
+    localizacion = localizacion[:-2]
+    fecha = fecha[:-2]
 
     tj = JsonTweet(tweeto, perfil, localizacion, fecha)
     tj.add_unk(neo)
@@ -291,6 +340,16 @@ def candidato_in(candidatos, candidato):
 
 def catalogar(request):
     candidatos = get_candidatos()
+
+    if request.method == 'GET':
+        filtro = request.GET.get('filter', None)
+        if filtro is "cand":
+            candidatos = [e for e in candidatos if not (e.ads or e.disc)]
+        elif filtro is "ad":
+            candidatos = [e for e in candidatos if e.ads]
+        elif filtro is "dis":
+            candidatos = [e for e in candidatos if e.disc]
+
     context = {
         "cands": candidatos,
     }
@@ -348,6 +407,15 @@ def loguearse(request):
     return render(request, 'login.html', {'form': form})
 
 
+def logout(request):
+    logout(request)
+    index(request)
+
+
+def about(request):
+    return render(request, 'about.html')
+
+
 def procesar(request):
     if request.method == 'POST' and request.FILES['myfile']:
         myfile = request.FILES['myfile']
@@ -368,3 +436,10 @@ def proceso(request):
         linea = ex.extraer(file)
         return render(request, 'procesando.html', {'linea': linea})
     return render(request, 'procesar.html')
+
+
+def setConteo(conx):
+    global nc
+    global nn
+    nc = conx.get_nc()
+    nn = conx.get_nn()
