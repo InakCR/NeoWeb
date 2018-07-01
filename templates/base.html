@@ -2,37 +2,35 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<header>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% block title %}Dominio | Titulo pagina {% endblock %}</title>
+    <title>{% block title %}NeoWeb{% endblock %}</title>
     <meta name="description" content="{% block description %}{% endblock %}"/>
 	
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css"
           href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>
 	<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+</header>
+
+<body>
     <div class="cabecera">
-        <h1><p align="center">Aplicacion De Neologismos</p></h1>
+        <h1>Aplicacion De Neologismos</h1>
+        <div class=login>
         <p><a href="{% url 'linguista:about' %}">Acerca De</a></p>
         {% if user.is_authenticated %}
-        <div class=login>
-            <p> Usuario : {{ user.get_username }}</p>
-             <p><a href="{% url 'linguista:logout' %}">Logout</a></p>
+            <b> Usuario : {{ user.get_username }}</b>
+             <a href="{% url 'linguista:logout' %}">Logout</a>
             {% else %}
-            <p><a href="{% url 'linguista:loguearse' %}">Login</a></p>
+            <a href="{% url 'linguista:loguearse' %}">Login</a>
             {% endif %}
         </div>
     </div>
     {% block head %}
     {% endblock %}
-</head>
-
-<body>
-
-
 <div class="container">
     {% block content %}
     {% endblock %}

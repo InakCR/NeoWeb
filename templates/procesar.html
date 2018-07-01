@@ -10,14 +10,14 @@
     <form method="post" enctype="multipart/form-data">
         {% csrf_token %}
         <input type="file" name="myfile">
-        <button type="submit">Upload</button>
+        <button class="btn btn-primary" type="submit">Upload</button>
     </form>
 
     {% if uploaded_file_url %}
-    <p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+    <p>Archivo subido: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
     <a  href="{% url 'linguista:proceso' %}?f={{ uploaded_file_url }}"><button type="button" class="btn btn-primary btn-md">Procesar</button></a>
     {% endif %}
-    <p><a href="{% url 'linguista:index' %}">Return to home</a></p>
+    <p><a href="{% url 'linguista:index' %}">Volver al Inicio</a></p>
 </div>
 </body>
 {% endblock %}

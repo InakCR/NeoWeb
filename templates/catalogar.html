@@ -5,17 +5,34 @@
 <div>
     <h2><p>Catalogar</p></h2>
 </div>
-<div class="selector">
-    <div class="btn-group">
-        <a href="{% url 'linguista:catalogar' %}" class="btn btn-primary" role="button">Todos</a>
-        <a href="{% url 'linguista:catalogar' %}?filter=cand" class="btn btn-primary" role="button">Candidatos</a>
-        <a href="{% url 'linguista:catalogar' %}?filter=ad" class="btn btn-primary" role="button">Admitidos</a>
-        <a href="{% url 'linguista:catalogar' %}?filter=dis" class="btn btn-primary" role="button">Descartados</a>
-    </div>
-</div>
 {% for message in messages %}
     <div class="alert alert-{{ message.tags }}">{{ message }}</div>
 {% endfor %}
+<div class="button-container1">
+    <div class="btn-group">
+        {% if all %}
+        <a href="{% url 'linguista:catalogar' %}" class="btn btn-default" role="button">Todos</a>
+        {% else %}
+        <a href="{% url 'linguista:catalogar' %}" class="btn btn-primary" role="button">Todos</a>
+        {% endif %}
+        {% if cand %}
+        <a href="{% url 'linguista:catalogar' %}?filter=cand" class="btn btn-default" role="button">Candidatos</a>
+        {% else %}
+         <a href="{% url 'linguista:catalogar' %}?filter=cand" class="btn btn-primary" role="button">Candidatos</a>
+        {% endif %}
+        {% if ad %}
+        <a href="{% url 'linguista:catalogar' %}?filter=ad" class="btn btn-default" role="button">Admitidos</a>
+        {% else %}
+        <a href="{% url 'linguista:catalogar' %}?filter=ad" class="btn btn-primary" role="button">Admitidos</a>
+        {% endif %}
+        {% if dis %}
+        <a href="{% url 'linguista:catalogar' %}?filter=dis" class="btn btn-default" role="button">Descartados</a>
+        {% else %}
+        <a href="{% url 'linguista:catalogar' %}?filter=dis" class="btn btn-primary" role="button">Descartados</a>
+        {% endif %}
+    </div>
+</div>
+
 <div class="catalogando">
     <div class="container">
         <table id="example" class="display" style="width:100%">
@@ -78,6 +95,7 @@
 		.removeClass( 'display' )
 		.addClass('table table-hover table-responsive-md table-fixed');
 
-
+action="{% url 'linguista:loguearse' %}"
 </script>
+<div class="push"></div>
 {% endblock %}

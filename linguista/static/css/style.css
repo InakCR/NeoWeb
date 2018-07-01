@@ -1,16 +1,45 @@
 .column {
+margin-top: 10px;
+	text-indent: 10px;
     float:left;
+    position: relative;
+    width:50%;
 }
 
 .leyenda {
     float:right;
+    position: sticky;
+    text-align: justify;
+    width:50%;
 }
-.footer {
-  margin-top: 50px;
-  padding: 10px 20px;
+
+.number{
+  margin-top: 20px;
+  position: fixed;
+  text-align: center;
+  padding: 1rem;
+  background-color: #efefef;
 }
+body {
+	margin:0;
+    background-color: #cce6ff
+}
+.cabecera{
+    text-align: center;
+    padding: 20px;
+    background-color: #efefef;
+}
+.container {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+  }
+
 .topnav .search-container {
-  float: right;
+  float: left;
 }
 
 .topnav input[type=text] {
@@ -22,9 +51,6 @@
 
 .topnav .search-container button {
   float: right;
-  padding: 6px 10px;
-  margin-top: 8px;
-  margin-bottom: 8px;
   margin-right: 16px;
   background: #ddd;
   font-size: 17px;
@@ -37,11 +63,12 @@
 }
 
 .row1 {
-     overflow: auto;
+    overflow: auto;
+    margin-top: 25px;
+
 }
 .row2 {
      overflow: auto;
-     margin-top: 10px;
 }
 .search-container {
     position: fixed;
@@ -50,8 +77,9 @@
 .button-container {
     float: right;
 }
-.cabecera {
-     overflow: auto;
+.button-container1 {
+    float: right;
+    margin-bottom: 25px;
 }
 
 .login {

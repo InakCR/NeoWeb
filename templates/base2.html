@@ -17,12 +17,17 @@
         </a>
     </div>
     {% else %}
-    {% endif %}
+        <div class="button-container">
+            <button type="button" class="btn btn-primary disabled">Catalogar</button>
+            <button type="button" class="btn btn-primary disabled">Procesar</button>
 
+    </div>
+    {% endif %}
 
 </div>
 <div class="row2">
-    <h3><p align="center"><a href="{% url 'linguista:index_by' %}?letter=a ">A</a> | <a
+    <h3><p align="center">  <a href="{% url 'linguista:index' %}">#</a> |
+        <a href="{% url 'linguista:index_by' %}?letter=a ">A</a> | <a
             href="{% url 'linguista:index_by' %}?letter=b ">B</a> | <a
             href="{% url 'linguista:index_by' %}?letter=c ">C</a> | <a
             href="{% url 'linguista:index_by' %}?letter=d ">D</a> | <a

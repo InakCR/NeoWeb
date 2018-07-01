@@ -1,5 +1,5 @@
 from django.contrib import messages
-from django.contrib.auth import authenticate, login
+from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.forms import AuthenticationForm
 from django.core.files.storage import FileSystemStorage
 from django.http import HttpResponse
@@ -105,7 +105,6 @@ def index_by_neo(request):
             "neos": neos,
         }
 
-
     return render(request, 'index_byLetter.html', context)
 
 
@@ -206,6 +205,7 @@ def admitir(request):
     perfil = ""
     localizacion = ""
     fecha = " "
+    flag1 = False
 
     for hit in hits:
         tweet = hit['_source']['tweetO']
@@ -220,15 +220,17 @@ def admitir(request):
         date = hit['_source']['fecha']
         if not date:
             date = " Desconocido "
-        tweeto += tweet + "," + '\n'
-        perfil += bio + "," + '\n'
-        localizacion += local + "," + '\n'
-        fecha += date + "," + '\n'
+        if flag1:
+            tweeto += "|"
+            perfil += "|"
+            localizacion += "|"
+            fecha += "|"
+        tweeto += tweet + " "
+        perfil += bio + " "
+        localizacion += local + " "
+        fecha += date + " "
 
-    tweeto = tweeto[:-2]
-    perfil = perfil[:-2]
-    localizacion = localizacion[:-2]
-    fecha = fecha[:-2]
+        flag1 = True
 
     tj = JsonTweet(tweeto, perfil, localizacion, fecha)
     tj.add_unk(neo)
@@ -252,7 +254,7 @@ def denegar(request):
     perfil = ""
     localizacion = ""
     fecha = " "
-
+    flag1 = False
     for hit in hits:
         tweet = hit['_source']['tweetO']
         if not tweet:
@@ -266,15 +268,16 @@ def denegar(request):
         date = hit['_source']['fecha']
         if not date:
             date = " Desconocido "
-        tweeto += tweet + "," + '\n'
-        perfil += bio + "," + '\n'
-        localizacion += local + "," + '\n'
-        fecha += date + "," + '\n'
-
-    tweeto = tweeto[:-2]
-    perfil = perfil[:-2]
-    localizacion = localizacion[:-2]
-    fecha = fecha[:-2]
+        if flag1:
+            tweeto += "|"
+            perfil += "|"
+            localizacion += "|"
+            fecha += "|"
+        tweeto += tweet + " "
+        perfil += bio + " "
+        localizacion += local + " "
+        fecha += date + " "
+        flag1 = True
 
     tj = JsonTweet(tweeto, perfil, localizacion, fecha)
     tj.add_unk(neo)
@@ -310,13 +313,25 @@ def get_candidatos():
             fecha = " Desconocido "
 
         for candidato in neologismos:
-            cand, b = candidato_in(candidatos, candidato)
-            cand.tweet += tweet + "," + '\n'
-            cand.bio += bio + "," + '\n'
-            cand.local += local + "," + '\n'
-            cand.date += fecha + "," + '\n'
-            if not b:
+            flag = True
+            for idx, cand in enumerate(candidatos):
+                if str(cand.lexema) == str(candidato):
+                    cand.tweet += "|" + tweet + " "
+                    cand.bio += "|" + bio + " "
+                    cand.local += "|" + local + " "
+                    cand.date += "|" + fecha + " "
+                    list[idx] = "|" + cand
+                    flag = False
+
+            if flag:
+                cand = Candidato()
+                cand.lexema = candidato
+                cand.tweet = tweet
+                cand.date = fecha
+                cand.bio = bio
+                cand.local = local
                 candidatos.append(cand)
+
     for c in candidatos:
         if conex.exist_ad(c.lexema):
             c.ads = True
@@ -325,33 +340,32 @@ def get_candidatos():
     return candidatos
 
 
-def candidato_in(candidatos, candidato):
-    for c in candidatos:
-        if c.lexema == candidato:
-            return c, True
-    cand = Candidato()
-    cand.lexema = candidato
-    cand.tweet = " "
-    cand.date = " "
-    cand.bio = " "
-    cand.local = " "
-    return cand, False
-
-
 def catalogar(request):
     candidatos = get_candidatos()
+    dis = False
+    ad = False
+    cand = False
+    all = True
 
     if request.method == 'GET':
         filtro = request.GET.get('filter', None)
-        if filtro is "cand":
-            candidatos = [e for e in candidatos if not (e.ads or e.disc)]
-        elif filtro is "ad":
-            candidatos = [e for e in candidatos if e.ads]
-        elif filtro is "dis":
-            candidatos = [e for e in candidatos if e.disc]
-
+        if filtro is not None:
+            all = False
+            if filtro == "cand":
+                candidatos = [e for e in candidatos if not (e.ads or e.disc)]
+                cand = True
+            elif filtro == "ad":
+                candidatos = [e for e in candidatos if e.ads]
+                ad = True
+            elif filtro == "dis":
+                candidatos = [e for e in candidatos if e.disc]
+                dis = True
     context = {
         "cands": candidatos,
+        "dis": dis,
+        "ad": ad,
+        "cand": cand,
+        "all": all,
     }
     return render(request, 'catalogar.html', context)
 
@@ -407,9 +421,9 @@ def loguearse(request):
     return render(request, 'login.html', {'form': form})
 
 
-def logout(request):
+def desconectarse(request):
     logout(request)
-    index(request)
+    return index(request)
 
 
 def about(request):

@@ -14,6 +14,6 @@ urlpatterns = [
     path('n/', views.index_by_neo, name='index_by_neo'),
     path('buscar/', views.buscar, name='buscar'),
     path('login/', views.loguearse, name='loguearse'),
-    path('logout/', views.logout, name='logout'),
+    path('logout/', views.desconectarse, name='logout'),
     path('about/', views.about, name='about'),
 ]
