@@ -314,13 +314,12 @@ def get_candidatos():
 
         for candidato in neologismos:
             flag = True
-            for idx, cand in enumerate(candidatos):
+            for cand in candidatos:
                 if str(cand.lexema) == str(candidato):
                     cand.tweet += "|" + tweet + " "
                     cand.bio += "|" + bio + " "
                     cand.local += "|" + local + " "
                     cand.date += "|" + fecha + " "
-                    list[idx] = "|" + cand
                     flag = False
 
             if flag:
